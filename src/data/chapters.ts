@@ -76,7 +76,7 @@ export const chapters: Record<string, ChapterContent> = {
       "Does the philosopher have a duty to return to the cave and help others?"
     ],
     furtherReading: "Read alongside Republic Books V-VI (the Divided Line and Sun analogies) for the full picture.",
-    externalUrl: "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm"
+    externalUrl: "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm#link2H_4_0010"
   },
 
   "plato-republic-1": {
