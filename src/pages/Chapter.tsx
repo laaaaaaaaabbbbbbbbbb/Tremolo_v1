@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { chapters } from "@/data/chapters";
 import { lessons } from "@/data/lessons";
-import { ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowLeft, ArrowRight, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Chapter = () => {
@@ -55,6 +55,21 @@ const Chapter = () => {
           <p className="text-foreground/80 leading-relaxed">{chapter.overview}</p>
         </section>
 
+        {/* External Link */}
+        {chapter.externalUrl && (
+          <section className="mb-10">
+            <a
+              href={chapter.externalUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border bg-secondary/50 text-foreground font-medium hover:bg-secondary transition-colors"
+            >
+              <ExternalLink className="w-5 h-5" />
+              Read the full text online
+            </a>
+          </section>
+        )}
+
         {/* Key Concepts */}
         <section className="mb-10">
           <h2 className="text-xl font-display font-semibold text-foreground mb-3">Key Concepts</h2>
@@ -69,7 +84,7 @@ const Chapter = () => {
         </section>
 
         {/* Main Sections */}
-        {chapter.sections.map((section, i) => (
+        {chapter.sections.length > 0 && chapter.sections.map((section, i) => (
           <section key={i} className="mb-10">
             <h2 className="text-xl font-display font-semibold text-foreground mb-3">{section.heading}</h2>
             <p className="text-foreground/80 leading-relaxed">{section.content}</p>
