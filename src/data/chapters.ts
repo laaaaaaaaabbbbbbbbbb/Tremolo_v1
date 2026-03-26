@@ -977,7 +977,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Can an action done from duty really be more morally valuable than one done from compassion?",
       "Is morality about principles or about outcomes? Can you have both?"
     ],
-    furtherReading: "Continue with Sections II-III for the categorical imperative and the idea of autonomy. Available on Project Gutenberg. For an accessible introduction, see Roger Scruton's 'Kant: A Very Short Introduction.'"
+    furtherReading: "Continue with Sections II-III for the categorical imperative and the idea of autonomy. Available on Project Gutenberg. For an accessible introduction, see Roger Scruton's 'Kant: A Very Short Introduction.'",
+    externalUrl: "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm"
   },
 
   "mill-liberty-1": {
