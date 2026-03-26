@@ -935,7 +935,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Kant right that limiting knowledge makes room for faith?",
       "Can you think of examples where we unconsciously impose structure on our experience?"
     ],
-    furtherReading: "The Critique of Pure Reason is notoriously difficult. Start with the Prolegomena to Any Future Metaphysics, which covers the same ground more accessibly. Sebastian Gardner's 'Routledge Guidebook to Kant' is excellent."
+    furtherReading: "The Critique of Pure Reason is notoriously difficult. Start with the Prolegomena to Any Future Metaphysics, which covers the same ground more accessibly. Sebastian Gardner's 'Routledge Guidebook to Kant' is excellent.",
+    externalUrl: "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
   },
 
   "kant-groundwork-1": {
