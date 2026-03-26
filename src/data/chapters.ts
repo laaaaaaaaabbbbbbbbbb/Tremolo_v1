@@ -305,7 +305,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Can the love of beauty or truth be as intense as romantic love?",
       "What do you make of Diotima's ladder — is it possible to 'ascend' in love?"
     ],
-    furtherReading: "Available on Project Gutenberg. For a modern philosophical engagement with the Symposium, see Martha Nussbaum's 'The Fragility of Goodness,' Chapter 6."
+    furtherReading: "Available on Project Gutenberg. For a modern philosophical engagement with the Symposium, see Martha Nussbaum's 'The Fragility of Goodness,' Chapter 6.",
+    externalUrl: "https://www.gutenberg.org/files/1600/1600-h/1600-h.htm"
   },
 
   "aristotle-ethics-1": {
