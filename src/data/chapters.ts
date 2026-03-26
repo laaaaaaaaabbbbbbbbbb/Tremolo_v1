@@ -195,7 +195,24 @@ export const chapters: Record<string, ChapterContent> = {
       "The Sun analogy — the Form of the Good illuminates truth as the sun illuminates sight",
       "The Divided Line — four levels of cognition from imagination to pure reason"
     ],
-    sections: [],
+    sections: [
+      {
+        heading: "The Three Waves",
+        content: "Book V contains Plato's three most controversial proposals, which Socrates calls 'waves' that threaten to drown him in ridicule. The first wave: women in the guardian class should receive the same education and fill the same roles as men, including military service. The second wave: guardians should have no private families — wives and children are held in common, with mating arranged by the rulers to produce the best offspring. The third and largest wave: philosophers must become kings, or kings must become genuine philosophers. Only when political power and philosophical wisdom coincide will cities be well-governed and humanity find relief from its troubles."
+      },
+      {
+        heading: "The Philosopher Defined",
+        content: "To defend the philosopher-king thesis, Socrates must explain what a philosopher is. A philosopher is a 'lover of wisdom' — but this means more than curiosity. True philosophers love the truth of things: they grasp the eternal, unchanging Forms (Beauty itself, Justice itself, the Good itself) rather than the many beautiful things, just actions, or good things that populate the sensible world. Those who love only the sensible world have 'opinion' (doxa), not knowledge (episteme). Opinion deals with what both is and is not — the changing, ambiguous realm of appearances. Knowledge deals with what purely is — the stable, intelligible realm of Forms."
+      },
+      {
+        heading: "Why Philosophers Are Despised",
+        content: "Adeimantus objects: if philosophers are so wonderful, why are they useless or corrupt in actual cities? Socrates responds with the Ship of State analogy. Imagine a ship where the sailors quarrel over who should steer, though none has studied navigation. If a true navigator were aboard, the sailors would call him a 'stargazer' and ignore him. This is exactly how democratic cities treat philosophers. Furthermore, the very qualities that make a philosophical nature excellent — intelligence, courage, breadth of vision — also make such a person attractive to corrupters. In a bad political environment, the best natures are corrupted into the worst."
+      },
+      {
+        heading: "The Sun and the Divided Line",
+        content: "Socrates is pressed to describe the Form of the Good directly but says he cannot — it is 'beyond being.' Instead he offers an analogy: the Good is to the intelligible world what the sun is to the visible world. The sun provides light that makes things visible and gives them the power to grow; the Good provides truth that makes Forms knowable and gives them their being. Socrates then divides a line into four unequal segments representing four states of mind: imagination (shadows and reflections), belief (physical objects), reasoning (mathematical objects, using hypotheses), and understanding (the Forms themselves, grasped through dialectic without hypotheses). Each level is more real and more knowable than the one below it."
+      }
+    ],
     reflectionQuestions: [
       "Is Plato right that only those who understand truth should govern?",
       "Why are philosophers often ineffective or unwelcome in politics?",
