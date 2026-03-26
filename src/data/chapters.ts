@@ -51,7 +51,8 @@ export const chapters: Record<string, ChapterContent> = {
       "When is it worth standing by your principles even at great personal cost?",
       "Is society better off with 'gadflies' who challenge conventional thinking?"
     ],
-    furtherReading: "The full text of Plato's Apology is available on Project Gutenberg and MIT Classics. For context, read alongside the Crito and Phaedo, which depict Socrates' final days."
+    furtherReading: "The full text of Plato's Apology is available on Project Gutenberg and MIT Classics. For context, read alongside the Crito and Phaedo, which depict Socrates' final days.",
+    externalUrl: "https://www.gutenberg.org/files/1656/1656-h/1656-h.htm"
   },
 
   "plato-republic-7": {
@@ -304,7 +305,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Can the love of beauty or truth be as intense as romantic love?",
       "What do you make of Diotima's ladder — is it possible to 'ascend' in love?"
     ],
-    furtherReading: "Available on Project Gutenberg. For a modern philosophical engagement with the Symposium, see Martha Nussbaum's 'The Fragility of Goodness,' Chapter 6."
+    furtherReading: "Available on Project Gutenberg. For a modern philosophical engagement with the Symposium, see Martha Nussbaum's 'The Fragility of Goodness,' Chapter 6.",
+    externalUrl: "https://www.gutenberg.org/files/1600/1600-h/1600-h.htm"
   },
 
   "aristotle-ethics-1": {
@@ -345,7 +347,8 @@ export const chapters: Record<string, ChapterContent> = {
       "What do you think the distinctively human function is?",
       "How much does happiness depend on luck and external circumstances?"
     ],
-    furtherReading: "Continue with Books II-III for Aristotle's account of moral virtue and the doctrine of the mean. Available on MIT Classics and Project Gutenberg."
+    furtherReading: "Continue with Books II-III for Aristotle's account of moral virtue and the doctrine of the mean. Available on MIT Classics and Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
   },
 
   "aristotle-ethics-2": {
@@ -386,7 +389,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Do you agree that true virtue changes what we want, not just what we do?",
       "What moral 'extremes' do you tend toward, and how might you correct them?"
     ],
-    furtherReading: "Continue with Book III for Aristotle's analysis of voluntary action and specific virtues. Available on MIT Classics and Project Gutenberg."
+    furtherReading: "Continue with Book III for Aristotle's analysis of voluntary action and specific virtues. Available on MIT Classics and Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
   },
 
   "epicurus-menoeceus": {
@@ -427,7 +431,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is 'absence of pain' really the highest pleasure, or is something more needed?",
       "How would your life change if you adopted Epicurus's classification of desires?"
     ],
-    furtherReading: "The Letter to Menoeceus is very short and worth reading in full. Available in various translations online. For more, see Epicurus's Principal Doctrines and the fragments collected by Diogenes Laertius."
+    furtherReading: "The Letter to Menoeceus is very short and worth reading in full. Available in various translations online. For more, see Epicurus's Principal Doctrines and the fragments collected by Diogenes Laertius.",
+    externalUrl: "https://en.wikisource.org/wiki/Letter_to_Menoeceus"
   },
 
   "epictetus-1": {
@@ -468,7 +473,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is it realistic to stop desiring external goods, or is this too extreme?",
       "How would your daily life change if you truly accepted what you cannot control?"
     ],
-    furtherReading: "The complete Enchiridion is very short (about 20 pages) and widely available. For the extended version, see Epictetus's Discourses (compiled by Arrian). Available on MIT Classics."
+    furtherReading: "The complete Enchiridion is very short (about 20 pages) and widely available. For the extended version, see Epictetus's Discourses (compiled by Arrian). Available on MIT Classics.",
+    externalUrl: "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
   },
 
   "aurelius-1": {
@@ -509,7 +515,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is the 'inner citadel' a realistic psychological strategy, or wishful thinking?",
       "How would you prepare yourself each morning for the challenges of the day?"
     ],
-    furtherReading: "The Meditations is widely available in many translations. Gregory Hays's 2002 translation is highly recommended for modern readers. Pierre Hadot's 'The Inner Citadel' is the definitive scholarly study."
+    furtherReading: "The Meditations is widely available in many translations. Gregory Hays's 2002 translation is highly recommended for modern readers. Pierre Hadot's 'The Inner Citadel' is the definitive scholarly study.",
+    externalUrl: "https://www.gutenberg.org/files/2680/2680-h/2680-h.htm"
   },
 
   "seneca-shortness": {
@@ -550,7 +557,8 @@ export const chapters: Record<string, ChapterContent> = {
       "How much of your life is spent in the present moment vs. worrying about the future?",
       "What would you do differently if you truly believed life was long enough?"
     ],
-    furtherReading: "On the Shortness of Life is brief and very readable. Available in many translations. Pair with Seneca's Moral Letters for more practical Stoic wisdom."
+    furtherReading: "On the Shortness of Life is brief and very readable. Available in many translations. Pair with Seneca's Moral Letters for more practical Stoic wisdom.",
+    externalUrl: "https://en.wikisource.org/wiki/On_the_Shortness_of_Life"
   },
 
   "laotzu-1": {
@@ -591,7 +599,8 @@ export const chapters: Record<string, ChapterContent> = {
       "What would wu wei look like in your daily life?",
       "Is the best leadership really the kind that goes unnoticed?"
     ],
-    furtherReading: "The Tao Te Ching exists in hundreds of translations. Stephen Mitchell's version is poetic; D.C. Lau's is scholarly. The complete text is very short (about 5,000 characters in Chinese) and rewards rereading."
+    furtherReading: "The Tao Te Ching exists in hundreds of translations. Stephen Mitchell's version is poetic; D.C. Lau's is scholarly. The complete text is very short (about 5,000 characters in Chinese) and rewards rereading.",
+    externalUrl: "https://www.gutenberg.org/files/216/216-h/216-h.htm"
   },
 
   "confucius-1": {
@@ -632,7 +641,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Do you agree that family relationships are the foundation of all virtue?",
       "Is it possible to govern through moral example, or is this naive?"
     ],
-    furtherReading: "The Analects is available in many translations. Edward Slingerland's translation with commentary is excellent for beginners. D.C. Lau's Penguin edition is the classic."
+    furtherReading: "The Analects is available in many translations. Edward Slingerland's translation with commentary is excellent for beginners. D.C. Lau's Penguin edition is the classic.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
   },
 
   "augustine-1": {
@@ -673,7 +683,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Augustine right that we often pursue good things in disordered ways?",
       "Can a philosophical conversion be as profound as a religious one?"
     ],
-    furtherReading: "The Confessions is available in multiple translations. Henry Chadwick's Oxford edition and Sarah Ruden's modern translation are both excellent. Books X-XI on memory and time are philosophically the richest."
+    furtherReading: "The Confessions is available in multiple translations. Henry Chadwick's Oxford edition and Sarah Ruden's modern translation are both excellent. Books X-XI on memory and time are philosophically the richest.",
+    externalUrl: "https://www.gutenberg.org/files/3296/3296-h/3296-h.htm"
   },
 
   "machiavelli-prince-15": {
@@ -714,7 +725,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Can you think of modern examples of 'the fox and the lion' in politics?",
       "Does Machiavelli's 'effectual truth' apply beyond politics — in business, relationships, everyday life?"
     ],
-    furtherReading: "The Prince is short and highly readable. Harvey Mansfield's translation is the scholarly standard. For context, read alongside Machiavelli's Discourses on Livy, which presents a more republican side of his thought."
+    furtherReading: "The Prince is short and highly readable. Harvey Mansfield's translation is the scholarly standard. For context, read alongside Machiavelli's Discourses on Livy, which presents a more republican side of his thought.",
+    externalUrl: "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm"
   },
 
   "descartes-med-1": {
@@ -755,7 +767,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Are you fundamentally a mind or a body? Or both equally?",
       "Does Descartes's method of doubt go too far, or is it a necessary starting point?"
     ],
-    furtherReading: "Continue with Meditations III-VI for Descartes's arguments for God's existence and the real distinction between mind and body. Available on Project Gutenberg."
+    furtherReading: "Continue with Meditations III-VI for Descartes's arguments for God's existence and the real distinction between mind and body. Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/59/59-h/59-h.htm"
   },
 
   "hobbes-leviathan-13": {
@@ -796,7 +809,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is giving up freedom for security a good trade? How much freedom would you surrender?",
       "Can you see the 'state of nature' dynamics in any real-world situations?"
     ],
-    furtherReading: "Continue with Leviathan Chapters 17-21 for Hobbes's theory of sovereignty. Available on Project Gutenberg. For contrast, read Locke's Second Treatise and Rousseau's Social Contract."
+    furtherReading: "Continue with Leviathan Chapters 17-21 for Hobbes's theory of sovereignty. Available on Project Gutenberg. For contrast, read Locke's Second Treatise and Rousseau's Social Contract.",
+    externalUrl: "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm"
   },
 
   "hume-enquiry-4": {
@@ -837,7 +851,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Hume right that we never actually observe causation — only regular succession?",
       "What are the practical implications of the problem of induction for science?"
     ],
-    furtherReading: "Continue with Section 10 (On Miracles) and Section 12 (Of the Academical Philosophy). Available on Project Gutenberg. For Kant's response, see the Critique of Pure Reason, especially the Preface to the 2nd edition."
+    furtherReading: "Continue with Section 10 (On Miracles) and Section 12 (Of the Academical Philosophy). Available on Project Gutenberg. For Kant's response, see the Critique of Pure Reason, especially the Preface to the 2nd edition.",
+    externalUrl: "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm"
   },
 
   "rousseau-contract-1": {
@@ -878,7 +893,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is representative democracy a betrayal of Rousseau's ideal, or a practical necessity?",
       "How can citizens be encouraged to think about the common good rather than their private interests?"
     ],
-    furtherReading: "The Social Contract is relatively short. For context, read Rousseau's Discourse on Inequality, which explains how society corrupted humanity's natural freedom. Available on Project Gutenberg."
+    furtherReading: "The Social Contract is relatively short. For context, read Rousseau's Discourse on Inequality, which explains how society corrupted humanity's natural freedom. Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/46333/46333-h/46333-h.htm"
   },
 
   "kant-critique-preface": {
@@ -919,7 +935,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Kant right that limiting knowledge makes room for faith?",
       "Can you think of examples where we unconsciously impose structure on our experience?"
     ],
-    furtherReading: "The Critique of Pure Reason is notoriously difficult. Start with the Prolegomena to Any Future Metaphysics, which covers the same ground more accessibly. Sebastian Gardner's 'Routledge Guidebook to Kant' is excellent."
+    furtherReading: "The Critique of Pure Reason is notoriously difficult. Start with the Prolegomena to Any Future Metaphysics, which covers the same ground more accessibly. Sebastian Gardner's 'Routledge Guidebook to Kant' is excellent.",
+    externalUrl: "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
   },
 
   "kant-groundwork-1": {
@@ -960,7 +977,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Can an action done from duty really be more morally valuable than one done from compassion?",
       "Is morality about principles or about outcomes? Can you have both?"
     ],
-    furtherReading: "Continue with Sections II-III for the categorical imperative and the idea of autonomy. Available on Project Gutenberg. For an accessible introduction, see Roger Scruton's 'Kant: A Very Short Introduction.'"
+    furtherReading: "Continue with Sections II-III for the categorical imperative and the idea of autonomy. Available on Project Gutenberg. For an accessible introduction, see Roger Scruton's 'Kant: A Very Short Introduction.'",
+    externalUrl: "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm"
   },
 
   "mill-liberty-1": {
@@ -1001,7 +1019,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Where should the line be drawn between actions that affect only the individual and those that affect others?",
       "Can social media amplify the 'tyranny of the majority' that Mill describes?"
     ],
-    furtherReading: "Continue with Chapters 2-3 for Mill's arguments for free speech and individuality. On Liberty is short and very readable. Available on Project Gutenberg."
+    furtherReading: "Continue with Chapters 2-3 for Mill's arguments for free speech and individuality. On Liberty is short and very readable. Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
   },
 
   "nietzsche-genealogy-1": {
@@ -1042,7 +1061,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is compassion for the weak a genuine virtue, or a disguised form of resentment?",
       "Can we evaluate our moral values without knowing their origins?"
     ],
-    furtherReading: "Continue with the Second and Third Essays for Nietzsche's account of guilt, bad conscience, and ascetic ideals. Available on Project Gutenberg. For context, read Beyond Good and Evil, especially chapters 1, 5, and 9."
+    furtherReading: "Continue with the Second and Third Essays for Nietzsche's account of guilt, bad conscience, and ascetic ideals. Available on Project Gutenberg. For context, read Beyond Good and Evil, especially chapters 1, 5, and 9.",
+    externalUrl: "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
 
   "russell-problems-1": {
@@ -1083,6 +1103,2163 @@ export const chapters: Record<string, ChapterContent> = {
       "Is it possible that the physical world doesn't exist independently of perception?",
       "How much of your knowledge is by 'acquaintance' and how much by 'description'?"
     ],
-    furtherReading: "The Problems of Philosophy is short, clear, and freely available on Project Gutenberg. Continue with chapters 6-15 for Russell's account of induction, universals, and the value of philosophy."
+    furtherReading: "The Problems of Philosophy is short, clear, and freely available on Project Gutenberg. Continue with chapters 6-15 for Russell's account of induction, universals, and the value of philosophy.",
+    externalUrl: "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm"
+  },
+
+  "plato-phaedo": {
+    slug: "plato-phaedo",
+    title: "The Immortality of the Soul",
+    book: "Phaedo",
+    author: "Plato",
+    era: "Ancient Greece (c. 360 BCE)",
+    overview: "The Phaedo recounts Socrates' final hours before his execution, during which he offers arguments for the immortality of the soul. Read the full dialogue via the link below.",
+    keyConcepts: ["Arguments for the soul's immortality", "The theory of recollection", "The soul's kinship with the Forms", "Socrates' calm acceptance of death"],
+    sections: [],
+    reflectionQuestions: ["Is the soul immortal?", "Can philosophy help us face death?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1658/1658-h/1658-h.htm"
+  },
+
+  "plato-meno": {
+    slug: "plato-meno",
+    title: "What is Virtue?",
+    book: "Meno",
+    author: "Plato",
+    era: "Ancient Greece (c. 385 BCE)",
+    overview: "Can virtue be taught? The Meno explores this question through the paradox of inquiry and the theory of recollection. Read the full dialogue via the link below.",
+    keyConcepts: ["The paradox of inquiry", "Knowledge as recollection", "Can virtue be taught?", "True opinion vs. knowledge"],
+    sections: [],
+    reflectionQuestions: ["Can virtue be taught, or is it innate?", "What is the difference between knowledge and true opinion?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1643/1643-h/1643-h.htm"
+  },
+
+  "plato-theaetetus": {
+    slug: "plato-theaetetus",
+    title: "Knowledge and Belief",
+    book: "Theaetetus",
+    author: "Plato",
+    era: "Ancient Greece (c. 369 BCE)",
+    overview: "What is knowledge? Plato examines three definitions — knowledge as perception, as true judgment, and as true judgment with an account — and finds all three wanting. Read the full dialogue via the link below.",
+    keyConcepts: ["Knowledge as perception", "Knowledge as true judgment", "The 'jury' objection", "Knowledge as justified true belief"],
+    sections: [],
+    reflectionQuestions: ["What is knowledge?", "Is knowledge simply justified true belief?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1726/1726-h/1726-h.htm"
+  },
+
+  "plato-euthyphro": {
+    slug: "plato-euthyphro",
+    title: "The Socratic Method",
+    book: "Euthyphro",
+    author: "Plato",
+    era: "Ancient Greece (c. 399 BCE)",
+    overview: "Socrates encounters Euthyphro outside the court and asks him to define piety. The resulting dialogue demonstrates the Socratic method in action. Read the full dialogue via the link below.",
+    keyConcepts: ["The Euthyphro dilemma", "The Socratic method of cross-examination", "Definition vs. example", "Is piety loved by the gods because it is pious, or pious because it is loved?"],
+    sections: [],
+    reflectionQuestions: ["Is something good because God commands it, or does God command it because it's good?", "Why is definition so difficult?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1642/1642-h/1642-h.htm"
+  },
+
+  "plato-crito": {
+    slug: "plato-crito",
+    title: "The Duty to Obey",
+    book: "Crito",
+    author: "Plato",
+    era: "Ancient Greece (c. 399 BCE)",
+    overview: "Socrates' friend Crito urges him to escape from prison, but Socrates argues that it would be wrong to break the law, even an unjust verdict. Read the full dialogue via the link below.",
+    keyConcepts: ["The obligation to obey the law", "The social contract implicit in citizenship", "Civil disobedience vs. legal obedience", "The voice of the Laws"],
+    sections: [],
+    reflectionQuestions: ["Is it ever right to break the law?", "Do citizens owe obedience to unjust laws?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1657/1657-h/1657-h.htm"
+  },
+
+  "aristotle-ethics-3": {
+    slug: "aristotle-ethics-3",
+    title: "Courage and Temperance",
+    book: "Nicomachean Ethics, Book III",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Book III examines voluntary action, moral responsibility, and the specific virtues of courage and temperance. Read the full text via the link below.",
+    keyConcepts: ["Voluntary vs. involuntary action", "Choice and deliberation", "Courage as the mean between cowardice and recklessness", "Temperance as moderation in bodily pleasures"],
+    sections: [],
+    reflectionQuestions: ["When is an action truly voluntary?", "What is genuine courage?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
+  },
+
+  "aristotle-ethics-5": {
+    slug: "aristotle-ethics-5",
+    title: "Justice",
+    book: "Nicomachean Ethics, Book V",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Aristotle's comprehensive theory of justice distinguishes between distributive justice (fair shares) and corrective justice (rectifying wrongs). Read the full text via the link below.",
+    keyConcepts: ["Distributive justice", "Corrective justice", "Justice as lawfulness and fairness", "Equity as a corrective to rigid law"],
+    sections: [],
+    reflectionQuestions: ["What makes a distribution fair?", "When should equity override strict law?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
+  },
+
+  "aristotle-ethics-6": {
+    slug: "aristotle-ethics-6",
+    title: "Intellectual Virtue",
+    book: "Nicomachean Ethics, Book VI",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Book VI turns from moral to intellectual virtue, exploring wisdom, understanding, and the crucial role of practical intelligence (phronesis). Read the full text via the link below.",
+    keyConcepts: ["Phronesis (practical wisdom)", "Sophia (theoretical wisdom)", "The five intellectual virtues", "The relationship between moral and intellectual virtue"],
+    sections: [],
+    reflectionQuestions: ["What is the difference between practical and theoretical wisdom?", "Can you be morally good without being practically wise?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
+  },
+
+  "aristotle-ethics-8": {
+    slug: "aristotle-ethics-8",
+    title: "Friendship",
+    book: "Nicomachean Ethics, Books VIII-IX",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Aristotle devotes two books to friendship — more than to any other topic — arguing that it is essential to the good life. Read the full text via the link below.",
+    keyConcepts: ["Three types of friendship: utility, pleasure, and virtue", "Perfect friendship between good people", "Friendship and self-love", "Friendship as necessary for happiness"],
+    sections: [],
+    reflectionQuestions: ["Are most friendships based on utility or pleasure?", "Is true friendship between equals?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
+  },
+
+  "aristotle-ethics-10": {
+    slug: "aristotle-ethics-10",
+    title: "Contemplation",
+    book: "Nicomachean Ethics, Book X",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "In the final book, Aristotle argues that the contemplative life — the life of philosophical reflection — represents the highest form of happiness. Read the full text via the link below.",
+    keyConcepts: ["Contemplation as the highest activity", "The divine element in human nature", "Pleasure and its role in happiness", "The transition from ethics to politics"],
+    sections: [],
+    reflectionQuestions: ["Is contemplation really the highest form of happiness?", "Can ordinary people achieve contemplative happiness?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm"
+  },
+
+  "aristotle-politics-1": {
+    slug: "aristotle-politics-1",
+    title: "The Nature of the State",
+    book: "Politics, Book I",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 335 BCE)",
+    overview: "Aristotle argues that the state exists by nature and that human beings are naturally political animals. Read the full text via the link below.",
+    keyConcepts: ["Man as a political animal", "The natural origin of the state", "The household as the basic unit", "Slavery and its justification (controversial)"],
+    sections: [],
+    reflectionQuestions: ["Are humans naturally political?", "Is the state natural or artificial?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/6762/6762-h/6762-h.htm"
+  },
+
+  "aristotle-politics-3": {
+    slug: "aristotle-politics-3",
+    title: "Constitutions",
+    book: "Politics, Book III",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 335 BCE)",
+    overview: "What makes a constitution just or unjust? Aristotle classifies constitutions by who rules and for whose benefit. Read the full text via the link below.",
+    keyConcepts: ["Six types of constitution", "Correct vs. deviant forms", "Citizenship and participation", "The rule of law vs. the rule of men"],
+    sections: [],
+    reflectionQuestions: ["What makes a government legitimate?", "Is democracy the best form of government?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/6762/6762-h/6762-h.htm"
+  },
+
+  "aristotle-politics-7": {
+    slug: "aristotle-politics-7",
+    title: "The Ideal State",
+    book: "Politics, Book VII",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 335 BCE)",
+    overview: "Aristotle outlines his vision of the best possible political community — one designed to promote the good life for its citizens. Read the full text via the link below.",
+    keyConcepts: ["The purpose of the state is the good life", "The ideal population and territory", "Education for citizenship", "The connection between ethics and politics"],
+    sections: [],
+    reflectionQuestions: ["Can a state promote the good life?", "What is the purpose of government?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/6762/6762-h/6762-h.htm"
+  },
+
+  "aristotle-metaphysics-1": {
+    slug: "aristotle-metaphysics-1",
+    title: "The Four Causes",
+    book: "Metaphysics, Book I",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Aristotle introduces his framework for understanding all things through four causes: material, formal, efficient, and final. Read the full text via the link below.",
+    keyConcepts: ["Material cause", "Formal cause", "Efficient cause", "Final cause (telos)"],
+    sections: [],
+    reflectionQuestions: ["Is the four-causes framework still useful today?", "Does everything have a purpose (final cause)?"],
+    furtherReading: "Available on MIT Classics.",
+    externalUrl: "http://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+  },
+
+  "aristotle-metaphysics-4": {
+    slug: "aristotle-metaphysics-4",
+    title: "Being qua Being",
+    book: "Metaphysics, Book IV",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 340 BCE)",
+    overview: "Aristotle defines metaphysics as the study of 'being qua being' — existence itself, apart from any particular kind of thing. Read the full text via the link below.",
+    keyConcepts: ["Being qua being", "The principle of non-contradiction", "The science of first principles", "Substance as the primary category"],
+    sections: [],
+    reflectionQuestions: ["What does it mean to study being itself?", "Is the principle of non-contradiction provable?"],
+    furtherReading: "Available on MIT Classics.",
+    externalUrl: "http://classics.mit.edu/Aristotle/metaphysics.4.iv.html"
+  },
+
+  "aristotle-rhetoric-1": {
+    slug: "aristotle-rhetoric-1",
+    title: "The Art of Rhetoric",
+    book: "Rhetoric, Book I",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 335 BCE)",
+    overview: "Aristotle analyzes the art of persuasion through three modes: ethos (character), pathos (emotion), and logos (argument). Read the full text via the link below.",
+    keyConcepts: ["Ethos, pathos, logos", "Rhetoric as the counterpart of dialectic", "Three genres of rhetoric", "Persuasion through character, emotion, and argument"],
+    sections: [],
+    reflectionQuestions: ["Which mode of persuasion is most powerful?", "Is rhetoric a neutral tool or inherently manipulative?"],
+    furtherReading: "Available on MIT Classics.",
+    externalUrl: "http://classics.mit.edu/Aristotle/rhetoric.1.i.html"
+  },
+
+  "aristotle-poetics": {
+    slug: "aristotle-poetics",
+    title: "Poetics and Catharsis",
+    book: "Poetics",
+    author: "Aristotle",
+    era: "Ancient Greece (c. 335 BCE)",
+    overview: "Aristotle's analysis of tragedy, mimesis, and the emotional purification (catharsis) that art produces. Read the full text via the link below.",
+    keyConcepts: ["Mimesis (imitation)", "Catharsis (emotional purification)", "The structure of tragedy", "Plot as the soul of tragedy"],
+    sections: [],
+    reflectionQuestions: ["Does art purify emotions?", "What makes a great story?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1974/1974-h/1974-h.htm"
+  },
+
+  "heraclitus-fragments": {
+    slug: "heraclitus-fragments",
+    title: "Fragments of Fire",
+    book: "Fragments",
+    author: "Heraclitus",
+    era: "Ancient Greece (c. 500 BCE)",
+    overview: "Heraclitus argued that everything is in constant flux — 'you cannot step into the same river twice.' Fire is the fundamental element, and the universe is governed by logos (rational order). Read the fragments via the link below.",
+    keyConcepts: ["Panta rhei — everything flows", "The unity of opposites", "Logos as rational order", "Fire as the fundamental element"],
+    sections: [],
+    reflectionQuestions: ["Is change the only constant?", "Can opposites be unified?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Fragments_of_Heraclitus"
+  },
+
+  "parmenides-truth": {
+    slug: "parmenides-truth",
+    title: "The Way of Truth",
+    book: "On Nature",
+    author: "Parmenides",
+    era: "Ancient Greece (c. 475 BCE)",
+    overview: "Parmenides argues that change and motion are illusions — being is one, unchanging, and eternal. This radical thesis launched Western metaphysics. Read the fragments via the link below.",
+    keyConcepts: ["Being is; non-being is not", "The impossibility of change", "The Way of Truth vs. the Way of Opinion", "The birth of metaphysics"],
+    sections: [],
+    reflectionQuestions: ["Could change really be an illusion?", "What does it mean for something to exist?"],
+    furtherReading: "Available on Wikisource and Stanford Encyclopedia of Philosophy.",
+    externalUrl: "https://en.wikisource.org/wiki/Fragments_of_Parmenides"
+  },
+
+  "zeno-paradoxes": {
+    slug: "zeno-paradoxes",
+    title: "The Paradoxes",
+    book: "Paradoxes",
+    author: "Zeno of Elea",
+    era: "Ancient Greece (c. 450 BCE)",
+    overview: "Zeno's paradoxes — including Achilles and the Tortoise — seem to prove that motion is impossible. They remain fascinating puzzles in philosophy and mathematics. Read about them via the link below.",
+    keyConcepts: ["Achilles and the Tortoise", "The Dichotomy paradox", "The Arrow paradox", "Infinity and divisibility"],
+    sections: [],
+    reflectionQuestions: ["Can motion really be paradoxical?", "Do Zeno's paradoxes have solutions?"],
+    furtherReading: "See Stanford Encyclopedia of Philosophy for analysis.",
+    externalUrl: "https://plato.stanford.edu/entries/paradox-zeno/"
+  },
+
+  "democritus-atoms": {
+    slug: "democritus-atoms",
+    title: "Atoms and the Void",
+    book: "Fragments",
+    author: "Democritus",
+    era: "Ancient Greece (c. 420 BCE)",
+    overview: "Democritus proposed that all of reality consists of atoms — indivisible particles moving through void. This ancient atomic theory anticipates modern physics. Read about his philosophy via the link below.",
+    keyConcepts: ["Atoms as indivisible particles", "The void as empty space", "Materialism", "Appearance vs. atomic reality"],
+    sections: [],
+    reflectionQuestions: ["How close was Democritus to modern atomic theory?", "Is everything ultimately physical?"],
+    furtherReading: "See Stanford Encyclopedia of Philosophy.",
+    externalUrl: "https://plato.stanford.edu/entries/democritus/"
+  },
+
+  "epicurus-doctrines": {
+    slug: "epicurus-doctrines",
+    title: "Principal Doctrines",
+    book: "Principal Doctrines",
+    author: "Epicurus",
+    era: "Hellenistic (c. 300 BCE)",
+    overview: "Forty maxims distilling the core of Epicurean philosophy — on pleasure, death, justice, and the good life. Read the full text via the link below.",
+    keyConcepts: ["The fourfold remedy", "Justice as a social contract", "Natural limits of pleasure", "The classification of desires"],
+    sections: [],
+    reflectionQuestions: ["Can happiness be reduced to a set of maxims?", "Is pleasure really the highest good?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Principal_Doctrines"
+  },
+
+  "lucretius-1": {
+    slug: "lucretius-1",
+    title: "On the Nature of Things",
+    book: "De Rerum Natura, Book I",
+    author: "Lucretius",
+    era: "Hellenistic (c. 55 BCE)",
+    overview: "Lucretius presents Epicurean physics in magnificent Latin verse — atoms, void, and the materialist foundation of reality. Read the full text via the link below.",
+    keyConcepts: ["Nothing comes from nothing", "Atoms and void", "The infinity of the universe", "Against divine creation"],
+    sections: [],
+    reflectionQuestions: ["Is a purely material universe compatible with meaning?", "Can philosophy be poetry?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/785/785-h/785-h.htm"
+  },
+
+  "lucretius-3": {
+    slug: "lucretius-3",
+    title: "Against the Fear of Death",
+    book: "De Rerum Natura, Book III",
+    author: "Lucretius",
+    era: "Hellenistic (c. 55 BCE)",
+    overview: "Lucretius argues that the soul is mortal and death is simply the end of sensation — there is nothing to fear. Read the full text via the link below.",
+    keyConcepts: ["The mortality of the soul", "Death as the end of sensation", "The symmetry argument", "Freedom from the fear of death"],
+    sections: [],
+    reflectionQuestions: ["Is the fear of death irrational?", "Does the symmetry argument work?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/785/785-h/785-h.htm"
+  },
+
+  "epictetus-2": {
+    slug: "epictetus-2",
+    title: "Dealing with Impressions",
+    book: "Enchiridion, Chapters 11-20",
+    author: "Epictetus",
+    era: "Hellenistic (c. 125 CE)",
+    overview: "Epictetus teaches how to evaluate and respond to life's events through Stoic principles. Read the full text via the link below.",
+    keyConcepts: ["Testing impressions", "Detachment from externals", "Maintaining equanimity", "The discipline of assent"],
+    sections: [],
+    reflectionQuestions: ["Can you control your reactions to events?", "Is detachment healthy or cold?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
+  },
+
+  "epictetus-3": {
+    slug: "epictetus-3",
+    title: "Living According to Nature",
+    book: "Enchiridion, Chapters 21-33",
+    author: "Epictetus",
+    era: "Hellenistic (c. 125 CE)",
+    overview: "Practical Stoic wisdom for daily life — how to live according to nature and maintain inner freedom. Read the full text via the link below.",
+    keyConcepts: ["Living according to nature", "Social roles and duties", "The philosopher's practice", "Freedom through acceptance"],
+    sections: [],
+    reflectionQuestions: ["What does it mean to live according to nature?", "Is Stoic acceptance passive or empowering?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
+  },
+
+  "aurelius-3": {
+    slug: "aurelius-3",
+    title: "Impermanence",
+    book: "Meditations, Books III-IV",
+    author: "Marcus Aurelius",
+    era: "Hellenistic (c. 170 CE)",
+    overview: "Marcus Aurelius reflects on the transience of all things — fame, power, and life itself — finding peace through acceptance. Read the full text via the link below.",
+    keyConcepts: ["The transience of all things", "The river of time", "The insignificance of fame", "Finding peace in impermanence"],
+    sections: [],
+    reflectionQuestions: ["Does impermanence make life meaningless or more precious?", "How do you respond to the thought that everything passes?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2680/2680-h/2680-h.htm"
+  },
+
+  "aurelius-5": {
+    slug: "aurelius-5",
+    title: "The View from Above",
+    book: "Meditations, Books V-VI",
+    author: "Marcus Aurelius",
+    era: "Hellenistic (c. 170 CE)",
+    overview: "Marcus practices seeing life from a cosmic perspective — shrinking human affairs to their true proportions. Read the full text via the link below.",
+    keyConcepts: ["The view from above", "Cosmic perspective", "Duty and acceptance", "The interconnection of all things"],
+    sections: [],
+    reflectionQuestions: ["Does a cosmic perspective help with daily problems?", "Is there comfort in our smallness?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2680/2680-h/2680-h.htm"
+  },
+
+  "aurelius-7": {
+    slug: "aurelius-7",
+    title: "Obstacle is the Way",
+    book: "Meditations, Books VII-VIII",
+    author: "Marcus Aurelius",
+    era: "Hellenistic (c. 170 CE)",
+    overview: "Marcus Aurelius on turning obstacles into opportunities for virtue — the impediment to action advances action. Read the full text via the link below.",
+    keyConcepts: ["The obstacle is the way", "Turning adversity into opportunity", "The discipline of action", "Virtue under pressure"],
+    sections: [],
+    reflectionQuestions: ["Can obstacles really become opportunities?", "How do you respond to adversity?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2680/2680-h/2680-h.htm"
+  },
+
+  "aurelius-9": {
+    slug: "aurelius-9",
+    title: "The Cosmic Perspective",
+    book: "Meditations, Books IX-XII",
+    author: "Marcus Aurelius",
+    era: "Hellenistic (c. 170 CE)",
+    overview: "The final books of the Meditations: Marcus reflects on death, legacy, and the unity of all things. Read the full text via the link below.",
+    keyConcepts: ["Death as natural", "The unity of the cosmos", "Legacy and memory", "Final reflections on duty"],
+    sections: [],
+    reflectionQuestions: ["How should we think about our own mortality?", "What legacy matters?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2680/2680-h/2680-h.htm"
+  },
+
+  "seneca-anger": {
+    slug: "seneca-anger",
+    title: "On Anger",
+    book: "On Anger, Book I",
+    author: "Seneca",
+    era: "Hellenistic (c. 41 CE)",
+    overview: "Seneca examines the psychology of anger and offers Stoic remedies for controlling it. Read the full text via the link below.",
+    keyConcepts: ["Anger as temporary madness", "The cognitive theory of emotion", "Prevention vs. cure", "Patience as a virtue"],
+    sections: [],
+    reflectionQuestions: ["Is anger ever justified?", "Can reason overcome anger?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Of_Anger"
+  },
+
+  "seneca-letters-1": {
+    slug: "seneca-letters-1",
+    title: "Letters on Ethics",
+    book: "Moral Letters, Letters 1-10",
+    author: "Seneca",
+    era: "Hellenistic (c. 65 CE)",
+    overview: "Seneca's intimate letters to his friend Lucilius on how to live well — practical Stoic wisdom for daily life. Read the full text via the link below.",
+    keyConcepts: ["The value of time", "Self-examination", "The crowd and solitude", "Progress in virtue"],
+    sections: [],
+    reflectionQuestions: ["What would you write in a letter about how to live?", "Is Seneca's advice still relevant?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+  },
+
+  "seneca-tranquility": {
+    slug: "seneca-tranquility",
+    title: "On Tranquility of Mind",
+    book: "On Tranquility of Mind",
+    author: "Seneca",
+    era: "Hellenistic (c. 60 CE)",
+    overview: "Seneca offers practical advice for finding inner peace amid life's turbulence. Read the full text via the link below.",
+    keyConcepts: ["Tranquility as the goal", "Avoiding restlessness", "The right attitude toward fortune", "Active engagement vs. withdrawal"],
+    sections: [],
+    reflectionQuestions: ["What disturbs your inner peace?", "Is tranquility the same as happiness?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Of_Peace_of_Mind"
+  },
+
+  "seneca-happy": {
+    slug: "seneca-happy",
+    title: "On the Happy Life",
+    book: "On the Happy Life",
+    author: "Seneca",
+    era: "Hellenistic (c. 58 CE)",
+    overview: "What constitutes true happiness? Seneca defends the Stoic view against Epicurean and popular alternatives. Read the full text via the link below.",
+    keyConcepts: ["Happiness as virtue", "The Stoic vs. Epicurean debate", "Wealth and virtue", "The consistency of the sage"],
+    sections: [],
+    reflectionQuestions: ["Is virtue sufficient for happiness?", "Can a wealthy person be truly Stoic?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Of_a_Happy_Life"
+  },
+
+  "seneca-letters-grief": {
+    slug: "seneca-letters-grief",
+    title: "Letters on Grief",
+    book: "Moral Letters, Letters 63 & 99",
+    author: "Seneca",
+    era: "Hellenistic (c. 65 CE)",
+    overview: "Seneca's counsel on mourning, loss, and acceptance — how to grieve without being consumed. Read the full text via the link below.",
+    keyConcepts: ["The proper measure of grief", "Memory and gratitude", "Acceptance of mortality", "Consolation through philosophy"],
+    sections: [],
+    reflectionQuestions: ["Is there a proper way to grieve?", "Can philosophy help with loss?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+  },
+
+  "seneca-letters-philosophy": {
+    slug: "seneca-letters-philosophy",
+    title: "Letters on Philosophy",
+    book: "Moral Letters, Letters 88-90",
+    author: "Seneca",
+    era: "Hellenistic (c. 65 CE)",
+    overview: "Seneca on the liberal arts, true education, and the ultimate purpose of philosophy. Read the full text via the link below.",
+    keyConcepts: ["Liberal arts and their limits", "Philosophy as the only true education", "The purpose of learning", "Wisdom vs. cleverness"],
+    sections: [],
+    reflectionQuestions: ["What is the purpose of education?", "Is philosophy practical or useless?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+  },
+
+  "sextus-1": {
+    slug: "sextus-1",
+    title: "The Skeptical Challenge",
+    book: "Outlines of Pyrrhonism, Book I",
+    author: "Sextus Empiricus",
+    era: "Hellenistic (c. 200 CE)",
+    overview: "Can we know anything for certain? The Pyrrhonist suspends judgment on all matters and finds tranquility in uncertainty. Read the full text via the link below.",
+    keyConcepts: ["Suspension of judgment (epoché)", "The ten modes of skepticism", "Equipollence — equal force of opposing arguments", "Ataraxia through skepticism"],
+    sections: [],
+    reflectionQuestions: ["Is certainty possible?", "Could suspending judgment bring peace?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Outlines_of_Pyrrhonism"
+  },
+
+  "cicero-duties-1": {
+    slug: "cicero-duties-1",
+    title: "On Duties",
+    book: "De Officiis, Book I",
+    author: "Cicero",
+    era: "Hellenistic (44 BCE)",
+    overview: "Cicero's comprehensive guide to moral duty — the Roman ideal of honor, obligation, and the good. Read the full text via the link below.",
+    keyConcepts: ["The four cardinal virtues", "Duty and honor", "The conflict between honor and expediency", "The obligations of public life"],
+    sections: [],
+    reflectionQuestions: ["What duties do we owe to society?", "When duty and self-interest conflict, which wins?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/47001/47001-h/47001-h.htm"
+  },
+
+  "cicero-friendship": {
+    slug: "cicero-friendship",
+    title: "On Friendship",
+    book: "De Amicitia",
+    author: "Cicero",
+    era: "Hellenistic (44 BCE)",
+    overview: "Cicero's meditation on the nature and value of true friendship — one of the most influential treatments of the topic. Read the full text via the link below.",
+    keyConcepts: ["Friendship as the greatest gift", "Virtue as the foundation of friendship", "The limits of friendship", "Friendship and political life"],
+    sections: [],
+    reflectionQuestions: ["What makes a friendship genuine?", "Can friendship survive disagreement?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2808/2808-h/2808-h.htm"
+  },
+
+  "cicero-old-age": {
+    slug: "cicero-old-age",
+    title: "On Old Age",
+    book: "De Senectute",
+    author: "Cicero",
+    era: "Hellenistic (44 BCE)",
+    overview: "Cicero argues that old age, rightly lived, is no burden but a crown — a time for wisdom, memory, and inner richness. Read the full text via the link below.",
+    keyConcepts: ["The advantages of old age", "Activity and engagement in later life", "Memory and experience", "Facing death with equanimity"],
+    sections: [],
+    reflectionQuestions: ["Is old age something to fear?", "What makes aging meaningful?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2808/2808-h/2808-h.htm"
+  },
+
+  "cicero-scipio": {
+    slug: "cicero-scipio",
+    title: "The Dream of Scipio",
+    book: "De Re Publica, Book VI",
+    author: "Cicero",
+    era: "Hellenistic (51 BCE)",
+    overview: "A vision of the cosmos and the soul's destiny — Scipio dreams of the heavens and learns that virtue alone brings immortality. Read the full text via the link below.",
+    keyConcepts: ["The music of the spheres", "The soul's cosmic journey", "Virtue and immortality", "The smallness of earthly fame"],
+    sections: [],
+    reflectionQuestions: ["Does cosmic perspective change how we value earthly life?", "Is fame worth pursuing?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Dream_of_Scipio"
+  },
+
+  "cicero-gods": {
+    slug: "cicero-gods",
+    title: "The Nature of the Gods",
+    book: "De Natura Deorum, Book I",
+    author: "Cicero",
+    era: "Hellenistic (45 BCE)",
+    overview: "A dialogue presenting Epicurean, Stoic, and skeptical views of religion and the divine. Read the full text via the link below.",
+    keyConcepts: ["Three philosophical views of the gods", "Natural theology", "The argument from design", "Skepticism about divine providence"],
+    sections: [],
+    reflectionQuestions: ["Do arguments for God's existence succeed?", "Is religious belief rational?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/14988/14988-h/14988-h.htm"
+  },
+
+  "laotzu-2": {
+    slug: "laotzu-2",
+    title: "Wu Wei",
+    book: "Tao Te Ching, Chapters 21-40",
+    author: "Lao Tzu",
+    era: "Eastern (c. 6th-4th century BCE)",
+    overview: "Action through non-action — the Taoist paradox of achieving by not striving. Read the full text via the link below.",
+    keyConcepts: ["Wu wei as effortless action", "The Tao as source of all things", "Simplicity and naturalness", "The soft overcomes the hard"],
+    sections: [],
+    reflectionQuestions: ["What would effortless action look like in your life?", "Is striving counterproductive?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/216/216-h/216-h.htm"
+  },
+
+  "laotzu-3": {
+    slug: "laotzu-3",
+    title: "The Sage Ruler",
+    book: "Tao Te Ching, Chapters 41-60",
+    author: "Lao Tzu",
+    era: "Eastern (c. 6th-4th century BCE)",
+    overview: "Leadership through humility and yielding — the Taoist vision of the ideal ruler. Read the full text via the link below.",
+    keyConcepts: ["Leadership through humility", "Governing without force", "The virtue of yielding", "Simplicity in government"],
+    sections: [],
+    reflectionQuestions: ["Can a leader truly lead by yielding?", "Is humility a strength?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/216/216-h/216-h.htm"
+  },
+
+  "laotzu-4": {
+    slug: "laotzu-4",
+    title: "Water and Softness",
+    book: "Tao Te Ching, Chapters 61-81",
+    author: "Lao Tzu",
+    era: "Eastern (c. 6th-4th century BCE)",
+    overview: "The strength of softness, the power of water — Lao Tzu's final teachings on the Tao. Read the full text via the link below.",
+    keyConcepts: ["Water as the model of the Tao", "Softness overcomes hardness", "Contentment and simplicity", "Returning to the source"],
+    sections: [],
+    reflectionQuestions: ["In what ways is water powerful?", "Is contentment the highest achievement?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/216/216-h/216-h.htm"
+  },
+
+  "confucius-3": {
+    slug: "confucius-3",
+    title: "Benevolence and Ritual",
+    book: "The Analects, Books III-IV",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Ren (benevolence) and Li (ritual propriety) as the twin pillars of Confucian ethics. Read the full text via the link below.",
+    keyConcepts: ["Ren as the highest virtue", "Li as the form of virtue", "The unity of inner feeling and outer form", "The gentleman vs. the petty person"],
+    sections: [],
+    reflectionQuestions: ["Can ritual be genuinely meaningful?", "Is benevolence natural or cultivated?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-5": {
+    slug: "confucius-5",
+    title: "The Gentleman",
+    book: "The Analects, Books V-VIII",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "The ideal of the junzi — the morally cultivated person who embodies virtue. Read the full text via the link below.",
+    keyConcepts: ["Junzi as moral ideal", "Self-cultivation", "Learning from others", "Moral courage"],
+    sections: [],
+    reflectionQuestions: ["What does it mean to be a 'gentleman' in Confucius' sense?", "Is moral cultivation a lifelong process?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-12": {
+    slug: "confucius-12",
+    title: "Government by Virtue",
+    book: "The Analects, Books XII-XIII",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "How rulers should govern through moral example rather than force. Read the full text via the link below.",
+    keyConcepts: ["Government by moral example", "The ruler's virtue influences the people", "Rectification of names", "Justice and benevolence in governance"],
+    sections: [],
+    reflectionQuestions: ["Can moral example really govern?", "What makes a leader legitimate?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-rectification": {
+    slug: "confucius-rectification",
+    title: "The Rectification of Names",
+    book: "The Analects, Book XIII",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "When words lose their meaning, society falls apart — naming things correctly is a political and moral act. Read the full text via the link below.",
+    keyConcepts: ["The rectification of names", "Language and social order", "When a prince is not princely", "Truth in language as moral obligation"],
+    sections: [],
+    reflectionQuestions: ["Does political language corrupt thought?", "Why does naming matter morally?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-filial": {
+    slug: "confucius-filial",
+    title: "Filial Piety and Family",
+    book: "The Analects, Books I-II & IV",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "The family as the root of all virtue — xiao (filial piety) as the foundation of ethics. Read the full text via the link below.",
+    keyConcepts: ["Filial piety as foundational virtue", "The family as moral training ground", "Respect for elders", "The connection between family and state"],
+    sections: [],
+    reflectionQuestions: ["Is the family the foundation of all morality?", "What obligations do children owe parents?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-cultivation": {
+    slug: "confucius-cultivation",
+    title: "Self-Cultivation",
+    book: "The Analects, Books XIV-XV",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "The lifelong process of moral self-improvement and the stages of Confucius' own development. Read the full text via the link below.",
+    keyConcepts: ["Self-cultivation as lifelong practice", "The stages of moral development", "Learning and reflection", "Persistence in virtue"],
+    sections: [],
+    reflectionQuestions: ["Is moral growth ever complete?", "What stage of development are you in?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-music": {
+    slug: "confucius-music",
+    title: "Music, Poetry, and Moral Formation",
+    book: "The Analects, Books III & XVII",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "How the arts shape character — Confucius on the moral power of music and poetry. Read the full text via the link below.",
+    keyConcepts: ["Music as moral education", "Poetry and emotional cultivation", "The arts and character formation", "Harmony in music and in life"],
+    sections: [],
+    reflectionQuestions: ["Can music shape character?", "Should art serve moral purposes?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-golden-rule": {
+    slug: "confucius-golden-rule",
+    title: "The Golden Rule of Confucius",
+    book: "The Analects, Books IV & XV",
+    author: "Confucius",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Do not impose on others what you do not wish for yourself — shu as the thread running through Confucian ethics. Read the full text via the link below.",
+    keyConcepts: ["Shu — the principle of reciprocity", "The negative golden rule", "Empathy as moral foundation", "The 'one thread' of Confucian ethics"],
+    sections: [],
+    reflectionQuestions: ["Is the negative golden rule better than the positive version?", "Is empathy the foundation of morality?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-mean": {
+    slug: "confucius-mean",
+    title: "The Doctrine of the Mean",
+    book: "The Doctrine of the Mean",
+    author: "Confucius (attr.)",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Harmony, balance, and the path of moderation in Confucian thought. Read the full text via the link below.",
+    keyConcepts: ["The Mean as cosmic harmony", "Sincerity (cheng)", "Balance in emotions and action", "The unity of heaven and human nature"],
+    sections: [],
+    reflectionQuestions: ["Is moderation always the right path?", "What is the relationship between sincerity and virtue?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "confucius-great-learning": {
+    slug: "confucius-great-learning",
+    title: "The Great Learning",
+    book: "The Great Learning",
+    author: "Confucius (attr.)",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "From cultivating the self to ordering the state — the Confucian program for social harmony. Read the full text via the link below.",
+    keyConcepts: ["The eight steps from self-cultivation to world peace", "Investigation of things", "Sincerity of thought", "The connection between personal and political virtue"],
+    sections: [],
+    reflectionQuestions: ["Can personal virtue really lead to social harmony?", "What does 'investigation of things' mean?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
+  },
+
+  "zhuangzi-1": {
+    slug: "zhuangzi-1",
+    title: "The Uselessness of Usefulness",
+    book: "The Inner Chapters, Chapters 1-3",
+    author: "Zhuangzi",
+    era: "Eastern (c. 3rd century BCE)",
+    overview: "Freedom, perspective, and the limits of knowledge — Zhuangzi challenges all fixed viewpoints. Read the full text via the link below.",
+    keyConcepts: ["The giant fish and bird (Kun and Peng)", "Relativity of perspectives", "The uselessness of usefulness", "Freedom from convention"],
+    sections: [],
+    reflectionQuestions: ["Is usefulness the right measure of value?", "Can we ever escape our limited perspective?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Writings_of_Chuang_Tz%C5%AB"
+  },
+
+  "zhuangzi-butterfly": {
+    slug: "zhuangzi-butterfly",
+    title: "The Butterfly Dream",
+    book: "The Inner Chapters, Chapter 2",
+    author: "Zhuangzi",
+    era: "Eastern (c. 3rd century BCE)",
+    overview: "Am I a man dreaming of being a butterfly, or a butterfly dreaming of being a man? Read the full text via the link below.",
+    keyConcepts: ["The relativity of identity", "Dream and reality", "The transformation of things", "Skepticism about knowledge"],
+    sections: [],
+    reflectionQuestions: ["How do you know you're not dreaming?", "Is identity fixed or fluid?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Writings_of_Chuang_Tz%C5%AB"
+  },
+
+  "zhuangzi-cook": {
+    slug: "zhuangzi-cook",
+    title: "The Cook and the Ox",
+    book: "The Inner Chapters, Chapter 3",
+    author: "Zhuangzi",
+    era: "Eastern (c. 3rd century BCE)",
+    overview: "Cook Ding's perfect skill — wu wei in action and the art of living effortlessly. Read the full text via the link below.",
+    keyConcepts: ["Skill beyond technique", "Wu wei in practice", "Following the natural grain", "The art of effortless mastery"],
+    sections: [],
+    reflectionQuestions: ["Have you ever experienced effortless mastery?", "Can skill transcend conscious effort?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Writings_of_Chuang_Tz%C5%AB"
+  },
+
+  "montesquieu-spirit": {
+    slug: "montesquieu-spirit",
+    title: "The Spirit of the Laws",
+    book: "The Spirit of the Laws, Books I-VIII",
+    author: "Montesquieu",
+    era: "Enlightenment (1748)",
+    overview: "The separation of powers and the principles behind different forms of government. Read the full text via the link below.",
+    keyConcepts: ["Separation of powers", "Three types of government", "The principle of each government", "Liberty and the structure of law"],
+    sections: [],
+    reflectionQuestions: ["Why is separation of powers important?", "Does the form of government shape the character of the people?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/27573/27573-h/27573-h.htm"
+  },
+
+  "suntzu-1": {
+    slug: "suntzu-1",
+    title: "The Art of War",
+    book: "The Art of War, Chapters 1-6",
+    author: "Sun Tzu",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Strategy, deception, and the philosophy of conflict — winning without fighting is the highest art. Read the full text via the link below.",
+    keyConcepts: ["All warfare is based on deception", "Know your enemy and know yourself", "The five factors of war", "Winning without fighting"],
+    sections: [],
+    reflectionQuestions: ["Is deception ever justified?", "Can Sun Tzu's principles apply beyond warfare?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/132/132-h/132-h.htm"
+  },
+
+  "suntzu-2": {
+    slug: "suntzu-2",
+    title: "Terrain and Adaptation",
+    book: "The Art of War, Chapters 7-13",
+    author: "Sun Tzu",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Flexibility, intelligence, and knowing when not to fight. Read the full text via the link below.",
+    keyConcepts: ["Adaptability to terrain", "The use of spies", "Fire attacks", "Knowing when not to fight"],
+    sections: [],
+    reflectionQuestions: ["When is retreat the wisest strategy?", "How important is adaptability?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/132/132-h/132-h.htm"
+  },
+
+  "diderot-encyclopedie": {
+    slug: "diderot-encyclopedie",
+    title: "The Preliminary Discourse",
+    book: "Encyclopédie",
+    author: "Denis Diderot & Jean le Rond d'Alembert",
+    era: "Enlightenment (1751)",
+    overview: "The manifesto of the Enlightenment — a systematic map of all human knowledge. Read the full text via the link below.",
+    keyConcepts: ["The tree of knowledge", "Reason as the guide to truth", "The unity of human knowledge", "The Enlightenment project"],
+    sections: [],
+    reflectionQuestions: ["Can all knowledge be systematized?", "Is the Enlightenment project still relevant?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Encyclop%C3%A9die/Preliminary_Discourse"
+  },
+
+  "condorcet-progress": {
+    slug: "condorcet-progress",
+    title: "The Progress of the Human Mind",
+    book: "Sketch for a Historical Picture of the Progress of the Human Mind",
+    author: "Marquis de Condorcet",
+    era: "Enlightenment (1795)",
+    overview: "Humanity's future perfection through reason, science, and universal education. Read the full text via the link below.",
+    keyConcepts: ["The perfectibility of humanity", "Progress through reason", "Universal education", "The march of civilization"],
+    sections: [],
+    reflectionQuestions: ["Is human progress inevitable?", "Has reason delivered on the Enlightenment's promises?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Outlines_of_an_historical_view_of_the_progress_of_the_human_mind"
+  },
+
+  "mozi-love": {
+    slug: "mozi-love",
+    title: "The Mohist Challenge",
+    book: "Mozi",
+    author: "Mozi",
+    era: "Eastern (c. 5th century BCE)",
+    overview: "Mozi challenges Confucianism with the doctrine of universal love — we should love all equally, not according to social roles. Read the full text via the link below.",
+    keyConcepts: ["Universal love vs. graded love", "Consequentialism", "Against offensive warfare", "The will of Heaven"],
+    sections: [],
+    reflectionQuestions: ["Should we love everyone equally?", "Is universal love practical?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Mozi_(Mei)"
+  },
+
+  "smith-moral-sentiments": {
+    slug: "smith-moral-sentiments",
+    title: "Moral Sentiments",
+    book: "The Theory of Moral Sentiments, Part I",
+    author: "Adam Smith",
+    era: "Enlightenment (1759)",
+    overview: "Sympathy as the foundation of morality — Adam Smith's ethical masterpiece, written before The Wealth of Nations. Read the full text via the link below.",
+    keyConcepts: ["Sympathy as moral foundation", "The impartial spectator", "Propriety of action", "The social basis of morality"],
+    sections: [],
+    reflectionQuestions: ["Is sympathy the basis of morality?", "Who is the 'impartial spectator' in your life?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/58559/58559-h/58559-h.htm"
+  },
+
+  "augustine-2": {
+    slug: "augustine-2",
+    title: "The Theft of the Pears",
+    book: "Confessions, Book II",
+    author: "Augustine",
+    era: "Late Antiquity (c. 397 CE)",
+    overview: "Why do we sin? Augustine's famous meditation on a trivial theft reveals the mystery of evil. Read the full text via the link below.",
+    keyConcepts: ["Evil as privation of good", "Sin without motive", "The social dimension of wrongdoing", "The corrupted will"],
+    sections: [],
+    reflectionQuestions: ["Why do people do wrong for no apparent reason?", "Is evil a positive force or an absence?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3296/3296-h/3296-h.htm"
+  },
+
+  "augustine-10": {
+    slug: "augustine-10",
+    title: "Memory and Time",
+    book: "Confessions, Books X-XI",
+    author: "Augustine",
+    era: "Late Antiquity (c. 397 CE)",
+    overview: "What is time? Augustine's profound exploration of memory, temporality, and the human condition. Read the full text via the link below.",
+    keyConcepts: ["The paradox of time", "Memory as a vast palace", "The present as the only reality", "Time as distension of the mind"],
+    sections: [],
+    reflectionQuestions: ["What is time?", "Is the past real?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3296/3296-h/3296-h.htm"
+  },
+
+  "augustine-city-1": {
+    slug: "augustine-city-1",
+    title: "The City of God",
+    book: "City of God, Books I-V",
+    author: "Augustine",
+    era: "Late Antiquity (c. 426 CE)",
+    overview: "Two cities — earthly and divine — and the meaning of history. Read the full text via the link below.",
+    keyConcepts: ["The City of God vs. the City of Man", "Providence and history", "The fall of Rome", "The two loves"],
+    sections: [],
+    reflectionQuestions: ["Do two 'cities' exist in every society?", "Does history have meaning?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45304/45304-h/45304-h.htm"
+  },
+
+  "boethius-1": {
+    slug: "boethius-1",
+    title: "The Consolation of Philosophy",
+    book: "Consolation of Philosophy, Books I-III",
+    author: "Boethius",
+    era: "Late Antiquity (c. 524 CE)",
+    overview: "Written in prison awaiting execution: can philosophy console us in suffering? Read the full text via the link below.",
+    keyConcepts: ["Philosophy as consolation", "The nature of true happiness", "Fortune's wheel", "The highest good"],
+    sections: [],
+    reflectionQuestions: ["Can philosophy really console?", "Is happiness independent of fortune?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/14328/14328-h/14328-h.htm"
+  },
+
+  "boethius-4": {
+    slug: "boethius-4",
+    title: "Fortune's Wheel",
+    book: "Consolation of Philosophy, Books IV-V",
+    author: "Boethius",
+    era: "Late Antiquity (c. 524 CE)",
+    overview: "Fate, free will, and the turning wheel of fortune. Read the full text via the link below.",
+    keyConcepts: ["Fortune's wheel", "Providence vs. fate", "Free will and divine foreknowledge", "The problem of evil"],
+    sections: [],
+    reflectionQuestions: ["Is fortune truly random?", "Can free will coexist with divine foreknowledge?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/14328/14328-h/14328-h.htm"
+  },
+
+  "aquinas-five-ways": {
+    slug: "aquinas-five-ways",
+    title: "The Five Ways",
+    book: "Summa Theologica, Part I, Q.2",
+    author: "Thomas Aquinas",
+    era: "Medieval (c. 1265)",
+    overview: "Five arguments for the existence of God — from motion, causation, contingency, degrees of perfection, and design. Read the full text via the link below.",
+    keyConcepts: ["The argument from motion", "The argument from efficient causation", "The argument from contingency", "The argument from design"],
+    sections: [],
+    reflectionQuestions: ["Do the Five Ways prove God's existence?", "Which argument is strongest?"],
+    furtherReading: "Available on New Advent.",
+    externalUrl: "https://www.newadvent.org/summa/1002.htm"
+  },
+
+  "aquinas-natural-law": {
+    slug: "aquinas-natural-law",
+    title: "Natural Law",
+    book: "Summa Theologica, Part I-II, Q.94",
+    author: "Thomas Aquinas",
+    era: "Medieval (c. 1270)",
+    overview: "Aquinas on natural law — the moral law written into human nature and discoverable by reason. Read the full text via the link below.",
+    keyConcepts: ["Natural law as rational participation in eternal law", "Self-evident moral principles", "The first precept: do good, avoid evil", "The universality of natural law"],
+    sections: [],
+    reflectionQuestions: ["Is there a moral law written into human nature?", "Can reason alone discover moral truth?"],
+    furtherReading: "Available on New Advent.",
+    externalUrl: "https://www.newadvent.org/summa/2094.htm"
+  },
+
+  "anselm-proslogion": {
+    slug: "anselm-proslogion",
+    title: "The Ontological Argument",
+    book: "Proslogion, Chapters 2-4",
+    author: "Anselm",
+    era: "Medieval (1078)",
+    overview: "Can we prove God exists just by thinking about the concept? Anselm's famous argument from the idea of a greatest conceivable being. Read the full text via the link below.",
+    keyConcepts: ["That than which nothing greater can be conceived", "Existence as a perfection", "The ontological argument", "Gaunilo's objection"],
+    sections: [],
+    reflectionQuestions: ["Can existence be proved by pure thought?", "Does the ontological argument work?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Proslogion"
+  },
+
+  "ockham-razor": {
+    slug: "ockham-razor",
+    title: "Ockham's Razor",
+    book: "Summa Logicae, Part I",
+    author: "William of Ockham",
+    era: "Medieval (c. 1323)",
+    overview: "Do not multiply entities beyond necessity — the principle of parsimony and its radical implications. Read about it via the link below.",
+    keyConcepts: ["The principle of parsimony", "Nominalism vs. realism", "Against unnecessary entities", "Simplicity in explanation"],
+    sections: [],
+    reflectionQuestions: ["Is the simplest explanation always the best?", "What entities are truly necessary?"],
+    furtherReading: "See Stanford Encyclopedia of Philosophy.",
+    externalUrl: "https://plato.stanford.edu/entries/ockham/"
+  },
+
+  "machiavelli-prince-24": {
+    slug: "machiavelli-prince-24",
+    title: "Fortune and Virtù",
+    book: "The Prince, Chapters 24-26",
+    author: "Niccolò Machiavelli",
+    era: "Renaissance (1532)",
+    overview: "How much of our fate do we control? Machiavelli on fortune, virtù, and the call to liberate Italy. Read the full text via the link below.",
+    keyConcepts: ["Fortune as a river", "Virtù as decisive action", "The role of luck in politics", "The call to Italian liberation"],
+    sections: [],
+    reflectionQuestions: ["How much of our fate do we control?", "Is fortune gendered, as Machiavelli claims?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm"
+  },
+
+  "montaigne-cannibals": {
+    slug: "montaigne-cannibals",
+    title: "On Cannibals",
+    book: "Essays, Book I, Chapter 31",
+    author: "Michel de Montaigne",
+    era: "Renaissance (1580)",
+    overview: "Who is truly 'barbaric'? Montaigne challenges European superiority by examining indigenous peoples. Read the full text via the link below.",
+    keyConcepts: ["Cultural relativism", "The critique of ethnocentrism", "Nature vs. civilization", "The barbarity of the 'civilized'"],
+    sections: [],
+    reflectionQuestions: ["Who is truly 'barbaric'?", "Is moral judgment culturally relative?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm"
+  },
+
+  "montaigne-experience": {
+    slug: "montaigne-experience",
+    title: "On Experience",
+    book: "Essays, Book III, Chapter 13",
+    author: "Michel de Montaigne",
+    era: "Renaissance (1588)",
+    overview: "Montaigne's final essay: the art of living through experience rather than abstract rules. Read the full text via the link below.",
+    keyConcepts: ["Experience over theory", "Self-knowledge through observation", "The body and the mind", "The art of living"],
+    sections: [],
+    reflectionQuestions: ["Is experience a better teacher than books?", "What has experience taught you that theory couldn't?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm"
+  },
+
+  "montaigne-solitude": {
+    slug: "montaigne-solitude",
+    title: "On Solitude",
+    book: "Essays, Book I, Chapter 39",
+    author: "Michel de Montaigne",
+    era: "Renaissance (1580)",
+    overview: "The value of withdrawing from the world to cultivate inner life. Read the full text via the link below.",
+    keyConcepts: ["The value of solitude", "Inner freedom", "Detachment from public opinion", "The 'back room' of the mind"],
+    sections: [],
+    reflectionQuestions: ["Do you need solitude?", "Can you be alone without being lonely?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm"
+  },
+
+  "more-utopia": {
+    slug: "more-utopia",
+    title: "Utopia",
+    book: "Utopia, Book II",
+    author: "Thomas More",
+    era: "Renaissance (1516)",
+    overview: "An imaginary island with a perfect society — or is it? More's ambiguous masterpiece of political imagination. Read the full text via the link below.",
+    keyConcepts: ["The ideal society", "Common property", "Religious tolerance", "The ambiguity of utopia"],
+    sections: [],
+    reflectionQuestions: ["Is utopia achievable or inherently impossible?", "Is More serious or satirical?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/2130/2130-h/2130-h.htm"
+  },
+
+  "bacon-organon": {
+    slug: "bacon-organon",
+    title: "The New Organon",
+    book: "Novum Organum, Book I, Aphorisms 1-68",
+    author: "Francis Bacon",
+    era: "Renaissance (1620)",
+    overview: "The idols of the mind and the new scientific method — Bacon's revolution in how we acquire knowledge. Read the full text via the link below.",
+    keyConcepts: ["The four idols", "Induction vs. deduction", "The new scientific method", "Knowledge as power"],
+    sections: [],
+    reflectionQuestions: ["What 'idols' distort your thinking?", "Is Bacon's scientific method still valid?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm"
+  },
+
+  "bacon-idols": {
+    slug: "bacon-idols",
+    title: "The Idols of the Mind",
+    book: "Novum Organum, Book I, Aphorisms 38-68",
+    author: "Francis Bacon",
+    era: "Renaissance (1620)",
+    overview: "Four types of cognitive bias that distort our understanding — Bacon's prescient analysis of human error. Read the full text via the link below.",
+    keyConcepts: ["Idols of the Tribe", "Idols of the Cave", "Idols of the Marketplace", "Idols of the Theater"],
+    sections: [],
+    reflectionQuestions: ["Which idol affects you most?", "Are Bacon's 'idols' the same as modern cognitive biases?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm"
+  },
+
+  "pico-dignity": {
+    slug: "pico-dignity",
+    title: "On the Dignity of Man",
+    book: "Oration on the Dignity of Man",
+    author: "Pico della Mirandola",
+    era: "Renaissance (1486)",
+    overview: "The Renaissance manifesto: humanity can make itself into anything — we are not fixed by nature but free to shape ourselves. Read the full text via the link below.",
+    keyConcepts: ["Human dignity and freedom", "Self-creation", "The great chain of being", "The Renaissance ideal"],
+    sections: [],
+    reflectionQuestions: ["Is it true that we can make ourselves into anything?", "What does human dignity mean?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Oration_on_the_Dignity_of_Man"
+  },
+
+  "erasmus-folly": {
+    slug: "erasmus-folly",
+    title: "The Praise of Folly",
+    book: "The Praise of Folly",
+    author: "Erasmus",
+    era: "Renaissance (1511)",
+    overview: "A satirical defense of foolishness that critiques every level of society — including the Church. Read the full text via the link below.",
+    keyConcepts: ["Folly as universal", "Satire of social institutions", "The folly of scholars", "The wisdom of simplicity"],
+    sections: [],
+    reflectionQuestions: ["Is there wisdom in folly?", "Does satire change anything?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/9371/9371-h/9371-h.htm"
+  },
+
+  "descartes-med-3": {
+    slug: "descartes-med-3",
+    title: "The Existence of God",
+    book: "Meditations on First Philosophy, Meditations III-IV",
+    author: "René Descartes",
+    era: "Early Modern (1641)",
+    overview: "From the cogito to proving God's existence — Descartes uses the idea of perfection to argue for a perfect being. Read the full text via the link below.",
+    keyConcepts: ["The trademark argument", "Degrees of reality", "God as the cause of our idea of perfection", "Error and the will"],
+    sections: [],
+    reflectionQuestions: ["Can the idea of perfection prove God exists?", "Why do we make errors?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/59/59-h/59-h.htm"
+  },
+
+  "descartes-med-5": {
+    slug: "descartes-med-5",
+    title: "Mind and Body",
+    book: "Meditations on First Philosophy, Meditations V-VI",
+    author: "René Descartes",
+    era: "Early Modern (1641)",
+    overview: "The mind-body problem: how do thought and matter interact? Descartes establishes the 'real distinction.' Read the full text via the link below.",
+    keyConcepts: ["The real distinction between mind and body", "The mind-body problem", "The ontological argument", "The reliability of the senses"],
+    sections: [],
+    reflectionQuestions: ["How do mind and body interact?", "Are you your body or your mind?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/59/59-h/59-h.htm"
+  },
+
+  "hobbes-leviathan-17": {
+    slug: "hobbes-leviathan-17",
+    title: "The Social Contract",
+    book: "Leviathan, Chapters 17-18",
+    author: "Thomas Hobbes",
+    era: "Early Modern (1651)",
+    overview: "Why we surrender freedom for security — the creation of the commonwealth. Read the full text via the link below.",
+    keyConcepts: ["The social contract", "Authorization and sovereignty", "The creation of the commonwealth", "Absolute sovereignty"],
+    sections: [],
+    reflectionQuestions: ["Would you give up freedom for security?", "Is absolute sovereignty necessary?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm"
+  },
+
+  "hobbes-leviathan-19": {
+    slug: "hobbes-leviathan-19",
+    title: "The Commonwealth",
+    book: "Leviathan, Chapters 19-21",
+    author: "Thomas Hobbes",
+    era: "Early Modern (1651)",
+    overview: "Sovereignty, liberty, and the structure of the state. Read the full text via the link below.",
+    keyConcepts: ["Three forms of commonwealth", "The liberty of subjects", "The rights of sovereigns", "When sovereignty fails"],
+    sections: [],
+    reflectionQuestions: ["What are the limits of state power?", "Is there a right to rebel?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm"
+  },
+
+  "locke-essay-1": {
+    slug: "locke-essay-1",
+    title: "No Innate Ideas",
+    book: "An Essay Concerning Human Understanding, Book I",
+    author: "John Locke",
+    era: "Early Modern (1690)",
+    overview: "The mind begins as a blank slate — Locke's devastating attack on innate ideas. Read the full text via the link below.",
+    keyConcepts: ["Tabula rasa", "Against innate ideas", "Experience as the source of all knowledge", "The empiricist foundation"],
+    sections: [],
+    reflectionQuestions: ["Is the mind really a blank slate?", "Are there any ideas we're born with?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/10615/10615-h/10615-h.htm"
+  },
+
+  "locke-essay-2": {
+    slug: "locke-essay-2",
+    title: "Simple and Complex Ideas",
+    book: "An Essay Concerning Human Understanding, Book II",
+    author: "John Locke",
+    era: "Early Modern (1690)",
+    overview: "How experience builds all our ideas from sensation and reflection. Read the full text via the link below.",
+    keyConcepts: ["Sensation and reflection", "Simple and complex ideas", "Primary and secondary qualities", "The building blocks of thought"],
+    sections: [],
+    reflectionQuestions: ["Are all ideas built from experience?", "What is the difference between primary and secondary qualities?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/10615/10615-h/10615-h.htm"
+  },
+
+  "locke-property": {
+    slug: "locke-property",
+    title: "Property and Labor",
+    book: "Second Treatise of Government, Chapter 5",
+    author: "John Locke",
+    era: "Early Modern (1689)",
+    overview: "You own what you mix your labor with — Locke's influential theory of property. Read the full text via the link below.",
+    keyConcepts: ["The labor theory of property", "The mixing metaphor", "The Lockean proviso", "Property in the state of nature"],
+    sections: [],
+    reflectionQuestions: ["Does mixing labor with something make it yours?", "Are there limits to property rights?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm"
+  },
+
+  "locke-revolution": {
+    slug: "locke-revolution",
+    title: "The Right to Revolution",
+    book: "Second Treatise of Government, Chapter 19",
+    author: "John Locke",
+    era: "Early Modern (1689)",
+    overview: "When government fails the people, revolution is justified. Read the full text via the link below.",
+    keyConcepts: ["The dissolution of government", "The right to revolution", "Trust between government and people", "Legitimate resistance"],
+    sections: [],
+    reflectionQuestions: ["When is revolution justified?", "Is there a social contract between citizens and government?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm"
+  },
+
+  "spinoza-ethics-1": {
+    slug: "spinoza-ethics-1",
+    title: "God, Nature, Substance",
+    book: "Ethics, Part I",
+    author: "Baruch Spinoza",
+    era: "Early Modern (1677)",
+    overview: "God and Nature are one — Spinoza's radical monism. There is only one substance, and everything is a mode of it. Read the full text via the link below.",
+    keyConcepts: ["Substance monism", "God or Nature (Deus sive Natura)", "Attributes and modes", "The necessity of all things"],
+    sections: [],
+    reflectionQuestions: ["Is God the same as Nature?", "Is everything determined?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm"
+  },
+
+  "spinoza-ethics-3": {
+    slug: "spinoza-ethics-3",
+    title: "The Mind and the Emotions",
+    book: "Ethics, Part III",
+    author: "Baruch Spinoza",
+    era: "Early Modern (1677)",
+    overview: "Spinoza's systematic account of the affects — desire, joy, and sorrow as the building blocks of emotional life. Read the full text via the link below.",
+    keyConcepts: ["Conatus — the striving to persist in being", "Joy, sorrow, and desire as basic affects", "The mind-body parallelism", "Active vs. passive emotions"],
+    sections: [],
+    reflectionQuestions: ["Do all emotions reduce to joy, sorrow, and desire?", "Is emotional life mechanical?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm"
+  },
+
+  "spinoza-ethics-4": {
+    slug: "spinoza-ethics-4",
+    title: "The Bondage of the Passions",
+    book: "Ethics, Part IV",
+    author: "Baruch Spinoza",
+    era: "Early Modern (1677)",
+    overview: "How emotions enslave us, and how reason can free us. Read the full text via the link below.",
+    keyConcepts: ["Human bondage to the passions", "The power of affects over reason", "The free person", "Reason as liberation"],
+    sections: [],
+    reflectionQuestions: ["Are you in bondage to your emotions?", "Can reason truly overcome passion?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm"
+  },
+
+  "spinoza-ethics-5": {
+    slug: "spinoza-ethics-5",
+    title: "The Intellectual Love of God",
+    book: "Ethics, Part V",
+    author: "Baruch Spinoza",
+    era: "Early Modern (1677)",
+    overview: "Blessedness through understanding our place in nature — the mind's intellectual love of God. Read the full text via the link below.",
+    keyConcepts: ["The intellectual love of God", "Blessedness as understanding", "The eternity of the mind", "Freedom through knowledge"],
+    sections: [],
+    reflectionQuestions: ["Can understanding bring blessedness?", "Is there a form of immortality in understanding?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm"
+  },
+
+  "leibniz-theodicy": {
+    slug: "leibniz-theodicy",
+    title: "The Best of All Possible Worlds",
+    book: "Theodicy",
+    author: "Gottfried Leibniz",
+    era: "Early Modern (1710)",
+    overview: "Why does evil exist if God is good? Leibniz's controversial answer: this is the best of all possible worlds. Read the full text via the link below.",
+    keyConcepts: ["The problem of evil", "The best of all possible worlds", "Metaphysical, moral, and physical evil", "Pre-established harmony"],
+    sections: [],
+    reflectionQuestions: ["Is this really the best possible world?", "Does the problem of evil disprove God?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/17147/17147-h/17147-h.htm"
+  },
+
+  "leibniz-monads": {
+    slug: "leibniz-monads",
+    title: "Monads",
+    book: "Monadology",
+    author: "Gottfried Leibniz",
+    era: "Early Modern (1714)",
+    overview: "Reality is made of mind-like substances called monads — each one a mirror of the universe. Read the full text via the link below.",
+    keyConcepts: ["Monads as simple substances", "No windows — monads don't interact", "Pre-established harmony", "Each monad mirrors the universe"],
+    sections: [],
+    reflectionQuestions: ["Is reality mental at its foundation?", "What does it mean for substances to have 'no windows'?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Monadology"
+  },
+
+  "berkeley-knowledge": {
+    slug: "berkeley-knowledge",
+    title: "To Be Is to Be Perceived",
+    book: "A Treatise Concerning the Principles of Human Knowledge",
+    author: "George Berkeley",
+    era: "Early Modern (1710)",
+    overview: "Berkeley's idealism: material objects exist only as perceptions — esse est percipi. Read the full text via the link below.",
+    keyConcepts: ["Esse est percipi (to be is to be perceived)", "Idealism", "Against material substance", "God as the perceiver of all things"],
+    sections: [],
+    reflectionQuestions: ["Do objects exist when no one is looking?", "Is Berkeley's idealism crazy or profound?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4723/4723-h/4723-h.htm"
+  },
+
+  "hume-miracles": {
+    slug: "hume-miracles",
+    title: "Miracles",
+    book: "An Enquiry Concerning Human Understanding, Section 10",
+    author: "David Hume",
+    era: "Early Modern (1748)",
+    overview: "Hume's devastating argument against believing in miracles on the basis of testimony. Read the full text via the link below.",
+    keyConcepts: ["A miracle as a violation of natural law", "The balance of evidence", "The unreliability of testimony", "Why miracle reports should be rejected"],
+    sections: [],
+    reflectionQuestions: ["Is belief in miracles ever rational?", "How should we evaluate extraordinary claims?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm"
+  },
+
+  "hume-induction": {
+    slug: "hume-induction",
+    title: "The Problem of Induction",
+    book: "An Enquiry Concerning Human Understanding, Section 4",
+    author: "David Hume",
+    era: "Early Modern (1748)",
+    overview: "Why can't we justify our belief that the future will resemble the past? Read the full text via the link below.",
+    keyConcepts: ["The uniformity of nature", "Induction vs. deduction", "The circularity of justifying induction", "Custom as the basis of expectation"],
+    sections: [],
+    reflectionQuestions: ["Can induction be justified?", "Why do we assume the future will resemble the past?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm"
+  },
+
+  "hume-identity": {
+    slug: "hume-identity",
+    title: "Personal Identity",
+    book: "A Treatise of Human Nature, Book I, Part IV, Section 6",
+    author: "David Hume",
+    era: "Early Modern (1740)",
+    overview: "There is no self — just a bundle of perceptions. Hume's radical challenge to personal identity. Read the full text via the link below.",
+    keyConcepts: ["The bundle theory of the self", "No impression of the self", "Identity as a fiction", "The theater of the mind"],
+    sections: [],
+    reflectionQuestions: ["Is there a self beyond your experiences?", "What makes you the same person over time?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4705/4705-h/4705-h.htm"
+  },
+
+  "rousseau-inequality": {
+    slug: "rousseau-inequality",
+    title: "Inequality",
+    book: "Discourse on Inequality, Part I",
+    author: "Jean-Jacques Rousseau",
+    era: "Enlightenment (1755)",
+    overview: "How civilization corrupted our natural goodness — Rousseau traces the origins of inequality. Read the full text via the link below.",
+    keyConcepts: ["Natural man vs. civilized man", "The state of nature", "Amour de soi vs. amour propre", "The corruption of civilization"],
+    sections: [],
+    reflectionQuestions: ["Were humans better off in the state of nature?", "Does civilization corrupt us?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/11136/11136-h/11136-h.htm"
+  },
+
+  "rousseau-savage": {
+    slug: "rousseau-savage",
+    title: "The Noble Savage",
+    book: "Discourse on Inequality, Part II",
+    author: "Jean-Jacques Rousseau",
+    era: "Enlightenment (1755)",
+    overview: "Property, comparison, and the origins of injustice — the second part of Rousseau's account. Read the full text via the link below.",
+    keyConcepts: ["The origin of property", "Comparison and envy", "The social contract as fraud", "The corruption of natural freedom"],
+    sections: [],
+    reflectionQuestions: ["Is private property the origin of inequality?", "Can we return to a simpler life?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/11136/11136-h/11136-h.htm"
+  },
+
+  "rousseau-emile": {
+    slug: "rousseau-emile",
+    title: "Emile and Education",
+    book: "Emile, or On Education, Book I",
+    author: "Jean-Jacques Rousseau",
+    era: "Enlightenment (1762)",
+    overview: "Rousseau's radical vision of natural education — let children learn from experience, not books. Read the full text via the link below.",
+    keyConcepts: ["Natural education", "Learning from experience", "Against premature instruction", "The development of the child"],
+    sections: [],
+    reflectionQuestions: ["Should education follow nature?", "Is modern schooling too artificial?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/30433/30433-h/30433-h.htm"
+  },
+
+  "voltaire-candide-1": {
+    slug: "voltaire-candide-1",
+    title: "Candide's Journey",
+    book: "Candide, Chapters 1-10",
+    author: "Voltaire",
+    era: "Enlightenment (1759)",
+    overview: "A satirical attack on philosophical optimism — Candide's misadventures in the 'best of all possible worlds.' Read the full text via the link below.",
+    keyConcepts: ["Satire of Leibnizian optimism", "The problem of evil made vivid", "The Lisbon earthquake", "Pangloss and his philosophy"],
+    sections: [],
+    reflectionQuestions: ["Is optimism a dangerous philosophy?", "How should we respond to suffering?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/19942/19942-h/19942-h.htm"
+  },
+
+  "voltaire-candide-30": {
+    slug: "voltaire-candide-30",
+    title: "We Must Cultivate Our Garden",
+    book: "Candide, Chapter 30",
+    author: "Voltaire",
+    era: "Enlightenment (1759)",
+    overview: "Voltaire's final answer to the problem of evil: stop philosophizing and do useful work. Read the full text via the link below.",
+    keyConcepts: ["Il faut cultiver notre jardin", "Practical wisdom over theory", "Work as the antidote to vice", "The rejection of grand systems"],
+    sections: [],
+    reflectionQuestions: ["Is 'cultivating your garden' the best response to life's suffering?", "Is Voltaire too pessimistic or just realistic?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/19942/19942-h/19942-h.htm"
+  },
+
+  "kant-aesthetic": {
+    slug: "kant-aesthetic",
+    title: "Space, Time, and Experience",
+    book: "Critique of Pure Reason, Transcendental Aesthetic",
+    author: "Immanuel Kant",
+    era: "Modern (1781)",
+    overview: "Space and time are not things in the world — they're how we experience it. Read the full text via the link below.",
+    keyConcepts: ["Space and time as forms of intuition", "A priori conditions of experience", "The ideality of space and time", "Phenomena vs. things in themselves"],
+    sections: [],
+    reflectionQuestions: ["Are space and time real or mental?", "Could experience be structured differently?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+  },
+
+  "kant-categories": {
+    slug: "kant-categories",
+    title: "The Categories",
+    book: "Critique of Pure Reason, Transcendental Analytic",
+    author: "Immanuel Kant",
+    era: "Modern (1781)",
+    overview: "The twelve categories the mind uses to organize experience — Kant's revolutionary epistemology. Read the full text via the link below.",
+    keyConcepts: ["The twelve categories", "The transcendental deduction", "Synthesis and unity of apperception", "How the mind structures experience"],
+    sections: [],
+    reflectionQuestions: ["Does the mind impose categories on experience?", "Could we think without categories?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+  },
+
+  "kant-dialectic": {
+    slug: "kant-dialectic",
+    title: "The Limits of Reason",
+    book: "Critique of Pure Reason, Transcendental Dialectic",
+    author: "Immanuel Kant",
+    era: "Modern (1781)",
+    overview: "Why reason fails when it tries to know God, freedom, and the soul. Read the full text via the link below.",
+    keyConcepts: ["The antinomies of pure reason", "The impossibility of metaphysical knowledge", "The paralogisms of the soul", "The ideal of pure reason"],
+    sections: [],
+    reflectionQuestions: ["Are there questions reason cannot answer?", "Is metaphysics impossible?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+  },
+
+  "kant-groundwork-2": {
+    slug: "kant-groundwork-2",
+    title: "The Categorical Imperative",
+    book: "Groundwork of the Metaphysics of Morals, Section II",
+    author: "Immanuel Kant",
+    era: "Modern (1785)",
+    overview: "Act only according to rules you could will to be universal laws. Read the full text via the link below.",
+    keyConcepts: ["The categorical imperative", "Universalizability", "Treating persons as ends", "The kingdom of ends"],
+    sections: [],
+    reflectionQuestions: ["Can you universalize the rules you live by?", "Is the categorical imperative too rigid?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm"
+  },
+
+  "kant-groundwork-3": {
+    slug: "kant-groundwork-3",
+    title: "Autonomy and Dignity",
+    book: "Groundwork of the Metaphysics of Morals, Section III",
+    author: "Immanuel Kant",
+    era: "Modern (1785)",
+    overview: "Treat humanity never merely as a means, but always as an end. Read the full text via the link below.",
+    keyConcepts: ["Autonomy of the will", "Human dignity", "The formula of humanity", "Freedom and morality"],
+    sections: [],
+    reflectionQuestions: ["What does it mean to treat someone as an end?", "Is human dignity unconditional?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm"
+  },
+
+  "kant-enlightenment": {
+    slug: "kant-enlightenment",
+    title: "What is Enlightenment?",
+    book: "An Answer to the Question: What Is Enlightenment?",
+    author: "Immanuel Kant",
+    era: "Modern (1784)",
+    overview: "Dare to know! Kant's famous essay on the courage to use your own reason. Read the full text via the link below.",
+    keyConcepts: ["Sapere aude — dare to know", "Self-imposed immaturity", "Public vs. private use of reason", "The freedom to think"],
+    sections: [],
+    reflectionQuestions: ["Are you thinking for yourself?", "What prevents people from using their own reason?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/What_is_Enlightenment%3F"
+  },
+
+  "kant-peace": {
+    slug: "kant-peace",
+    title: "Perpetual Peace",
+    book: "Perpetual Peace",
+    author: "Immanuel Kant",
+    era: "Modern (1795)",
+    overview: "Kant's vision for international peace through republican government, federation, and cosmopolitan right. Read the full text via the link below.",
+    keyConcepts: ["Republican constitutions promote peace", "A federation of free states", "Cosmopolitan right", "The conditions for perpetual peace"],
+    sections: [],
+    reflectionQuestions: ["Is perpetual peace achievable?", "Do democracies really fight fewer wars?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/50922/50922-h/50922-h.htm"
+  },
+
+  "kant-sublime": {
+    slug: "kant-sublime",
+    title: "The Sublime",
+    book: "Critique of Judgment, Analytic of the Sublime",
+    author: "Immanuel Kant",
+    era: "Modern (1790)",
+    overview: "When beauty overwhelms us — the mathematical and dynamical sublime. Read the full text via the link below.",
+    keyConcepts: ["The mathematical sublime", "The dynamical sublime", "The feeling of inadequacy and triumph", "Nature's overwhelming power"],
+    sections: [],
+    reflectionQuestions: ["Have you experienced the sublime?", "What makes something sublime rather than beautiful?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/48433/48433-h/48433-h.htm"
+  },
+
+  "hegel-master-slave": {
+    slug: "hegel-master-slave",
+    title: "Master and Slave",
+    book: "Phenomenology of Spirit",
+    author: "G.W.F. Hegel",
+    era: "Modern (1807)",
+    overview: "The famous dialectic of lordship and bondage — how self-consciousness emerges through struggle. Read the full text via the link below.",
+    keyConcepts: ["The struggle for recognition", "Lordship and bondage", "The reversal — the slave becomes free through labor", "Self-consciousness requires an other"],
+    sections: [],
+    reflectionQuestions: ["Does freedom require recognition by others?", "Can work be liberating?"],
+    furtherReading: "Available on Marxists.org.",
+    externalUrl: "https://www.marxists.org/reference/archive/hegel/works/ph/phc.htm"
+  },
+
+  "hegel-dialectic": {
+    slug: "hegel-dialectic",
+    title: "The Dialectic",
+    book: "Phenomenology of Spirit, Introduction",
+    author: "G.W.F. Hegel",
+    era: "Modern (1807)",
+    overview: "Thesis, antithesis, synthesis — the engine of history and thought. Read the full text via the link below.",
+    keyConcepts: ["Dialectical movement", "Aufhebung (sublation)", "The development of Spirit", "History as rational progress"],
+    sections: [],
+    reflectionQuestions: ["Does thought really develop dialectically?", "Is history rational?"],
+    furtherReading: "Available on Marxists.org.",
+    externalUrl: "https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm"
+  },
+
+  "hegel-right-preface": {
+    slug: "hegel-right-preface",
+    title: "The Owl of Minerva",
+    book: "Philosophy of Right, Preface",
+    author: "G.W.F. Hegel",
+    era: "Modern (1820)",
+    overview: "Philosophy always arrives too late — the owl of Minerva flies at dusk. Read the full text via the link below.",
+    keyConcepts: ["The owl of Minerva", "Philosophy as retrospective", "The rational is the actual", "History and understanding"],
+    sections: [],
+    reflectionQuestions: ["Does philosophy always come too late?", "Is the rational really the actual?"],
+    furtherReading: "Available on Marxists.org.",
+    externalUrl: "https://www.marxists.org/reference/archive/hegel/works/pr/preface.htm"
+  },
+
+  "schopenhauer-will-1": {
+    slug: "schopenhauer-will-1",
+    title: "The World as Will",
+    book: "The World as Will and Representation, Book I",
+    author: "Arthur Schopenhauer",
+    era: "Modern (1818)",
+    overview: "Behind appearances lies a blind, striving will — the thing-in-itself is will. Read the full text via the link below.",
+    keyConcepts: ["The world as representation", "The world as will", "The veil of Maya", "The blind striving of existence"],
+    sections: [],
+    reflectionQuestions: ["Is the universe fundamentally purposeless striving?", "Is life suffering?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/38427/38427-h/38427-h.htm"
+  },
+
+  "schopenhauer-will-3": {
+    slug: "schopenhauer-will-3",
+    title: "Aesthetic Contemplation",
+    book: "The World as Will and Representation, Book III",
+    author: "Arthur Schopenhauer",
+    era: "Modern (1818)",
+    overview: "Art as temporary escape from the tyranny of desire — the will is silenced in aesthetic contemplation. Read the full text via the link below.",
+    keyConcepts: ["Art as escape from will", "The Platonic Ideas in art", "The genius", "Music as the direct expression of will"],
+    sections: [],
+    reflectionQuestions: ["Does art free us from desire?", "Is music the highest art?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/38427/38427-h/38427-h.htm"
+  },
+
+  "schopenhauer-will-4": {
+    slug: "schopenhauer-will-4",
+    title: "The Denial of the Will",
+    book: "The World as Will and Representation, Book IV",
+    author: "Arthur Schopenhauer",
+    era: "Modern (1818)",
+    overview: "Liberation through the renunciation of desire — Schopenhauer's ethics of compassion and asceticism. Read the full text via the link below.",
+    keyConcepts: ["The denial of the will-to-live", "Compassion as the basis of ethics", "Asceticism and renunciation", "Liberation from suffering"],
+    sections: [],
+    reflectionQuestions: ["Is renunciation the path to freedom?", "Is compassion the foundation of morality?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/38427/38427-h/38427-h.htm"
+  },
+
+  "kierkegaard-either-1": {
+    slug: "kierkegaard-either-1",
+    title: "Either/Or",
+    book: "Either/Or, Part I",
+    author: "Søren Kierkegaard",
+    era: "Modern (1843)",
+    overview: "The aesthetic life: living for the moment, pursuing pleasure, and avoiding commitment. Read the full text via the link below.",
+    keyConcepts: ["The aesthetic stage of existence", "Living for the moment", "Irony and detachment", "The seducer's diary"],
+    sections: [],
+    reflectionQuestions: ["Is the aesthetic life fulfilling?", "Can you live without commitment?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/43916/43916-h/43916-h.htm"
+  },
+
+  "kierkegaard-either-2": {
+    slug: "kierkegaard-either-2",
+    title: "The Ethical Life",
+    book: "Either/Or, Part II",
+    author: "Søren Kierkegaard",
+    era: "Modern (1843)",
+    overview: "Choose yourself — the ethical stage of existence, where commitment and responsibility define who you are. Read the full text via the link below.",
+    keyConcepts: ["The ethical stage", "Choice and commitment", "Marriage as ethical paradigm", "The seriousness of existence"],
+    sections: [],
+    reflectionQuestions: ["Does commitment give life meaning?", "Is the ethical life superior to the aesthetic?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/43916/43916-h/43916-h.htm"
+  },
+
+  "kierkegaard-fear": {
+    slug: "kierkegaard-fear",
+    title: "The Leap of Faith",
+    book: "Fear and Trembling",
+    author: "Søren Kierkegaard",
+    era: "Modern (1843)",
+    overview: "Abraham's willingness to sacrifice Isaac — the teleological suspension of the ethical and the leap of faith. Read the full text via the link below.",
+    keyConcepts: ["The teleological suspension of the ethical", "The knight of faith", "Abraham's sacrifice", "The leap of faith"],
+    sections: [],
+    reflectionQuestions: ["Can faith require suspending ethics?", "What does it mean to take a 'leap of faith'?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/45632/45632-h/45632-h.htm"
+  },
+
+  "kierkegaard-sickness": {
+    slug: "kierkegaard-sickness",
+    title: "The Sickness Unto Death",
+    book: "The Sickness Unto Death, Part I",
+    author: "Søren Kierkegaard",
+    era: "Modern (1849)",
+    overview: "Despair as the fundamental human condition — not a feeling but a misrelation of the self to itself. Read the full text via the link below.",
+    keyConcepts: ["Despair as the sickness unto death", "The self as a relation", "Forms of despair", "The self before God"],
+    sections: [],
+    reflectionQuestions: ["Is despair universal?", "What does it mean to be a 'self'?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Sickness_Unto_Death"
+  },
+
+  "kierkegaard-anxiety": {
+    slug: "kierkegaard-anxiety",
+    title: "The Concept of Anxiety",
+    book: "The Concept of Anxiety, Introduction & Chapter 1",
+    author: "Søren Kierkegaard",
+    era: "Modern (1844)",
+    overview: "Anxiety as the dizziness of freedom — we are anxious because we are free to choose. Read the full text via the link below.",
+    keyConcepts: ["Anxiety as the dizziness of freedom", "The nothing that anxiety discovers", "Freedom and possibility", "Sin and the fall"],
+    sections: [],
+    reflectionQuestions: ["Is anxiety the price of freedom?", "What does anxiety reveal about human nature?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/conceptofdread00kieruoft"
+  },
+
+  "mill-liberty-2": {
+    slug: "mill-liberty-2",
+    title: "Freedom of Thought",
+    book: "On Liberty, Chapter 2",
+    author: "John Stuart Mill",
+    era: "19th Century (1859)",
+    overview: "Why free speech is essential — even for wrong opinions. Mill's most powerful argument for liberty of thought. Read the full text via the link below.",
+    keyConcepts: ["The fallibility argument", "Dead dogma vs. living truth", "The marketplace of ideas", "Why silencing opinion is always wrong"],
+    sections: [],
+    reflectionQuestions: ["Should all opinions be allowed, even harmful ones?", "Is free speech absolute?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+  },
+
+  "mill-liberty-3": {
+    slug: "mill-liberty-3",
+    title: "Individuality",
+    book: "On Liberty, Chapter 3",
+    author: "John Stuart Mill",
+    era: "19th Century (1859)",
+    overview: "Individuality as one of the elements of well-being — against the tyranny of custom. Read the full text via the link below.",
+    keyConcepts: ["Individuality as essential to well-being", "The danger of custom", "Experiments in living", "Genius and eccentricity"],
+    sections: [],
+    reflectionQuestions: ["Is individuality threatened today?", "Should society tolerate eccentricity?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+  },
+
+  "mill-util-1": {
+    slug: "mill-util-1",
+    title: "The Greatest Happiness",
+    book: "Utilitarianism, Chapters 1-2",
+    author: "John Stuart Mill",
+    era: "19th Century (1863)",
+    overview: "Actions are right as they promote happiness — Mill's defense and refinement of utilitarianism. Read the full text via the link below.",
+    keyConcepts: ["The greatest happiness principle", "Pleasure and pain as foundations", "Higher and lower pleasures", "The scope of utilitarian concern"],
+    sections: [],
+    reflectionQuestions: ["Is happiness the ultimate goal?", "Should we maximize total happiness?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm"
+  },
+
+  "mill-util-2": {
+    slug: "mill-util-2",
+    title: "Higher and Lower Pleasures",
+    book: "Utilitarianism, Chapter 2",
+    author: "John Stuart Mill",
+    era: "19th Century (1863)",
+    overview: "It is better to be Socrates dissatisfied than a fool satisfied — Mill's distinction between qualities of pleasure. Read the full text via the link below.",
+    keyConcepts: ["Higher and lower pleasures", "The competent judge", "Quality vs. quantity of pleasure", "Socrates dissatisfied vs. the fool satisfied"],
+    sections: [],
+    reflectionQuestions: ["Are some pleasures genuinely higher than others?", "Who decides which pleasures are higher?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm"
+  },
+
+  "nietzsche-genealogy-2": {
+    slug: "nietzsche-genealogy-2",
+    title: "Guilt and Bad Conscience",
+    book: "On the Genealogy of Morals, Second Essay",
+    author: "Friedrich Nietzsche",
+    era: "19th Century (1887)",
+    overview: "How we internalized punishment and created conscience — the origin of guilt. Read the full text via the link below.",
+    keyConcepts: ["The origin of guilt", "Punishment and memory", "Bad conscience as internalized aggression", "The creditor-debtor relationship"],
+    sections: [],
+    reflectionQuestions: ["Is guilt natural or socially constructed?", "Is bad conscience a sickness?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+
+  "nietzsche-genealogy-3": {
+    slug: "nietzsche-genealogy-3",
+    title: "Ascetic Ideals",
+    book: "On the Genealogy of Morals, Third Essay",
+    author: "Friedrich Nietzsche",
+    era: "19th Century (1887)",
+    overview: "What do ascetic ideals mean? Nietzsche traces the will to nothingness through art, philosophy, and religion. Read the full text via the link below.",
+    keyConcepts: ["Ascetic ideals", "The will to nothingness", "The ascetic priest", "The meaning of suffering"],
+    sections: [],
+    reflectionQuestions: ["Why do people embrace self-denial?", "Is the ascetic ideal still powerful today?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
+  },
+
+  "nietzsche-beyond-1": {
+    slug: "nietzsche-beyond-1",
+    title: "Beyond Good and Evil",
+    book: "Beyond Good and Evil, Chapters 1-2",
+    author: "Friedrich Nietzsche",
+    era: "19th Century (1886)",
+    overview: "The prejudices of philosophers and the free spirit — Nietzsche challenges the foundations of Western thought. Read the full text via the link below.",
+    keyConcepts: ["The will to truth", "Prejudices of philosophers", "The free spirit", "Beyond traditional morality"],
+    sections: [],
+    reflectionQuestions: ["Do philosophers have hidden prejudices?", "What lies beyond good and evil?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+
+  "nietzsche-beyond-9": {
+    slug: "nietzsche-beyond-9",
+    title: "The Will to Power",
+    book: "Beyond Good and Evil, Chapter 9",
+    author: "Friedrich Nietzsche",
+    era: "19th Century (1886)",
+    overview: "What is noble? Nietzsche's vision of human greatness and the order of rank. Read the full text via the link below.",
+    keyConcepts: ["The will to power", "Nobility and rank", "Self-overcoming", "The pathos of distance"],
+    sections: [],
+    reflectionQuestions: ["What is genuine nobility?", "Is the will to power a description or a prescription?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm"
+  },
+
+  "nietzsche-truth-lies": {
+    slug: "nietzsche-truth-lies",
+    title: "On Truth and Lies",
+    book: "On Truth and Lies in a Nonmoral Sense",
+    author: "Friedrich Nietzsche",
+    era: "19th Century (1873)",
+    overview: "Language, metaphor, and the construction of truth — an early Nietzsche essay that anticipates postmodernism. Read the full text via the link below.",
+    keyConcepts: ["Truth as a mobile army of metaphors", "The human intellect as deception", "Language and reality", "The construction of truth"],
+    sections: [],
+    reflectionQuestions: ["Is truth constructed or discovered?", "Can language capture reality?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/On_Truth_and_Lies_in_a_Nonmoral_Sense"
+  },
+
+  "thoreau-disobedience": {
+    slug: "thoreau-disobedience",
+    title: "Civil Disobedience",
+    book: "Civil Disobedience",
+    author: "Henry David Thoreau",
+    era: "19th Century (1849)",
+    overview: "When injustice is the law, resistance becomes duty — Thoreau's influential essay on the obligation to resist unjust government. Read the full text via the link below.",
+    keyConcepts: ["The duty to resist injustice", "The individual vs. the state", "Tax resistance", "Conscience over law"],
+    sections: [],
+    reflectionQuestions: ["When is civil disobedience justified?", "Does conscience override law?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/71/71-h/71-h.htm"
+  },
+
+  "thoreau-walden-1": {
+    slug: "thoreau-walden-1",
+    title: "Walden",
+    book: "Walden, Economy",
+    author: "Henry David Thoreau",
+    era: "19th Century (1854)",
+    overview: "I went to the woods to live deliberately — Thoreau's experiment in simple living. Read the full text via the link below.",
+    keyConcepts: ["Deliberate living", "Simplicity", "Self-reliance", "The critique of materialism"],
+    sections: [],
+    reflectionQuestions: ["Could you simplify your life radically?", "What does it mean to live deliberately?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/205/205-h/205-h.htm"
+  },
+
+  "emerson-self-reliance": {
+    slug: "emerson-self-reliance",
+    title: "Self-Reliance",
+    book: "Self-Reliance",
+    author: "Ralph Waldo Emerson",
+    era: "19th Century (1841)",
+    overview: "Trust thyself — Emerson's manifesto for individual authenticity and nonconformity. Read the full text via the link below.",
+    keyConcepts: ["Trust thyself", "Nonconformity", "The integrity of your own mind", "Society as a conspiracy against individuality"],
+    sections: [],
+    reflectionQuestions: ["Do you trust your own judgment?", "Is conformity the enemy of greatness?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance"
+  },
+
+  "james-will-believe": {
+    slug: "james-will-believe",
+    title: "The Will to Believe",
+    book: "The Will to Believe",
+    author: "William James",
+    era: "19th Century (1896)",
+    overview: "Sometimes we are justified in believing without sufficient evidence — James's defense of faith in the face of uncertainty. Read the full text via the link below.",
+    keyConcepts: ["Living, forced, momentous options", "The right to believe", "Risk and faith", "Against evidentialism"],
+    sections: [],
+    reflectionQuestions: ["Is belief without evidence ever justified?", "Is refusing to choose itself a choice?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Will_to_Believe"
+  },
+
+  "james-pragmatism-2": {
+    slug: "james-pragmatism-2",
+    title: "What Pragmatism Means",
+    book: "Pragmatism, Lecture II",
+    author: "William James",
+    era: "19th Century (1907)",
+    overview: "Truth is what works — the pragmatic theory of truth and meaning. Read the full text via the link below.",
+    keyConcepts: ["The pragmatic method", "Truth as what works", "The cash value of ideas", "Resolving philosophical disputes"],
+    sections: [],
+    reflectionQuestions: ["Is truth what works in practice?", "Does pragmatism avoid the big questions?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/Pragmatism:_A_New_Name_for_Some_Old_Ways_of_Thinking"
+  },
+
+  "james-stream": {
+    slug: "james-stream",
+    title: "The Stream of Consciousness",
+    book: "Principles of Psychology, Chapter IX",
+    author: "William James",
+    era: "19th Century (1890)",
+    overview: "Thought flows like a stream — James revolutionizes psychology with his analysis of conscious experience. Read the full text via the link below.",
+    keyConcepts: ["The stream of thought", "Consciousness as continuous", "The specious present", "Fringes and relations"],
+    sections: [],
+    reflectionQuestions: ["Is consciousness really a stream?", "Can we observe our own consciousness?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Principles_of_Psychology/Chapter_9"
+  },
+
+  "peirce-fixation": {
+    slug: "peirce-fixation",
+    title: "The Fixation of Belief",
+    book: "The Fixation of Belief",
+    author: "Charles Sanders Peirce",
+    era: "19th Century (1877)",
+    overview: "Four methods of settling opinion — tenacity, authority, a priori, and science — and why science wins. Read the full text via the link below.",
+    keyConcepts: ["Four methods of fixing belief", "The method of tenacity", "The method of authority", "The scientific method"],
+    sections: [],
+    reflectionQuestions: ["How do you fix your beliefs?", "Is the scientific method the best way to truth?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/The_Fixation_of_Belief"
+  },
+
+  "peirce-ideas-clear": {
+    slug: "peirce-ideas-clear",
+    title: "How to Make Our Ideas Clear",
+    book: "How to Make Our Ideas Clear",
+    author: "Charles Sanders Peirce",
+    era: "19th Century (1878)",
+    overview: "The pragmatic maxim: the meaning of an idea is found in its practical effects. Read the full text via the link below.",
+    keyConcepts: ["The pragmatic maxim", "Clarity of ideas", "Practical effects as meaning", "Against Cartesian clarity"],
+    sections: [],
+    reflectionQuestions: ["Is meaning found in practical effects?", "How clear are your most important ideas?"],
+    furtherReading: "Available on Wikisource.",
+    externalUrl: "https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear"
+  },
+
+  "russell-problems-5": {
+    slug: "russell-problems-5",
+    title: "Knowledge by Acquaintance",
+    book: "The Problems of Philosophy, Chapters 5-10",
+    author: "Bertrand Russell",
+    era: "20th Century (1912)",
+    overview: "What can we know directly vs. what we know by description? Russell's important epistemological distinction. Read the full text via the link below.",
+    keyConcepts: ["Knowledge by acquaintance vs. description", "Universals", "A priori knowledge", "The limits of empiricism"],
+    sections: [],
+    reflectionQuestions: ["What do you know directly?", "Can we know anything beyond our experience?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm"
+  },
+
+  "russell-problems-15": {
+    slug: "russell-problems-15",
+    title: "The Value of Philosophy",
+    book: "The Problems of Philosophy, Chapter 15",
+    author: "Bertrand Russell",
+    era: "20th Century (1912)",
+    overview: "Philosophy enlarges the self and frees the mind from the tyranny of custom. Read the full text via the link below.",
+    keyConcepts: ["The value of uncertainty", "Philosophy enlarges the self", "Freedom from custom", "The examined life"],
+    sections: [],
+    reflectionQuestions: ["What is the value of philosophy?", "Does uncertainty make us wiser?"],
+    furtherReading: "Available on Project Gutenberg.",
+    externalUrl: "https://www.gutenberg.org/files/5827/5827-h/5827-h.htm"
+  },
+
+  "camus-sisyphus-1": {
+    slug: "camus-sisyphus-1",
+    title: "The Myth of Sisyphus",
+    book: "The Myth of Sisyphus, Chapter 1",
+    author: "Albert Camus",
+    era: "20th Century (1942)",
+    overview: "The only serious philosophical question is whether life is worth living — Camus confronts the absurd. Read the full text via the link below.",
+    keyConcepts: ["The absurd", "Philosophical suicide", "The confrontation with meaninglessness", "Revolt against absurdity"],
+    sections: [],
+    reflectionQuestions: ["Is life's meaning a genuine philosophical problem?", "How do you respond to absurdity?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/the-myth-of-sisyphus_202106"
+  },
+
+  "camus-sisyphus-4": {
+    slug: "camus-sisyphus-4",
+    title: "The Absurd",
+    book: "The Myth of Sisyphus, Chapters 2-4",
+    author: "Albert Camus",
+    era: "20th Century (1942)",
+    overview: "Embracing the absurd: one must imagine Sisyphus happy. Read the full text via the link below.",
+    keyConcepts: ["One must imagine Sisyphus happy", "Living without appeal", "The absurd hero", "Revolt, freedom, passion"],
+    sections: [],
+    reflectionQuestions: ["Can Sisyphus be happy?", "Is embracing the absurd heroic or foolish?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/the-myth-of-sisyphus_202106"
+  },
+
+  "sartre-existentialism": {
+    slug: "sartre-existentialism",
+    title: "Existence Precedes Essence",
+    book: "Existentialism Is a Humanism",
+    author: "Jean-Paul Sartre",
+    era: "20th Century (1946)",
+    overview: "We are condemned to be free — Sartre's existentialist manifesto, delivered as a public lecture. Read the full text via the link below.",
+    keyConcepts: ["Existence precedes essence", "Radical freedom", "Bad faith", "Responsibility without excuse"],
+    sections: [],
+    reflectionQuestions: ["Are you condemned to be free?", "What does it mean to define yourself through choices?"],
+    furtherReading: "Available on Marxists.org.",
+    externalUrl: "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm"
+  },
+
+  "arendt-eichmann": {
+    slug: "arendt-eichmann",
+    title: "The Banality of Evil",
+    book: "Eichmann in Jerusalem, Epilogue",
+    author: "Hannah Arendt",
+    era: "20th Century (1963)",
+    overview: "Evil as thoughtlessness — Arendt's controversial thesis from the trial of Adolf Eichmann. Read the full text via the link below.",
+    keyConcepts: ["The banality of evil", "Thoughtlessness and moral failure", "Obedience and responsibility", "The trial as philosophical event"],
+    sections: [],
+    reflectionQuestions: ["Can evil be 'banal'?", "Is thoughtlessness a moral failing?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/elonarendtreport00aren"
+  },
+
+  "arendt-human-condition": {
+    slug: "arendt-human-condition",
+    title: "The Human Condition",
+    book: "The Human Condition, Chapters 1-2",
+    author: "Hannah Arendt",
+    era: "20th Century (1958)",
+    overview: "Labor, work, and action — the three fundamental human activities that define the vita activa. Read the full text via the link below.",
+    keyConcepts: ["Labor, work, and action", "The vita activa", "The public and private realms", "Plurality and politics"],
+    sections: [],
+    reflectionQuestions: ["What is the difference between labor and work?", "Is action the highest human activity?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/humancondition0000aren"
+  },
+
+  "rawls-justice-1": {
+    slug: "rawls-justice-1",
+    title: "A Theory of Justice",
+    book: "A Theory of Justice, Chapter 1",
+    author: "John Rawls",
+    era: "20th Century (1971)",
+    overview: "Justice as fairness — Rawls revives social contract theory with a powerful new framework. Read the full text via the link below.",
+    keyConcepts: ["Justice as fairness", "The original position", "The two principles of justice", "Reflective equilibrium"],
+    sections: [],
+    reflectionQuestions: ["Is justice really about fairness?", "Can we design fair principles for society?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/theoryofjustice0000rawl"
+  },
+
+  "rawls-veil": {
+    slug: "rawls-veil",
+    title: "The Veil of Ignorance",
+    book: "A Theory of Justice, Chapter 3",
+    author: "John Rawls",
+    era: "20th Century (1971)",
+    overview: "Designing society without knowing your place in it — the veil of ignorance as a test of fairness. Read the full text via the link below.",
+    keyConcepts: ["The veil of ignorance", "The original position", "The difference principle", "Maximin reasoning"],
+    sections: [],
+    reflectionQuestions: ["Would you choose the same society from behind the veil?", "Is the veil of ignorance a good test of fairness?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/theoryofjustice0000rawl"
+  },
+
+  "kuhn-structure-1": {
+    slug: "kuhn-structure-1",
+    title: "The Structure of Scientific Revolutions",
+    book: "The Structure of Scientific Revolutions, Chapters 1-5",
+    author: "Thomas Kuhn",
+    era: "20th Century (1962)",
+    overview: "Paradigm shifts — how science really progresses, not through accumulation but through revolution. Read the full text via the link below.",
+    keyConcepts: ["Paradigms", "Normal science", "Anomalies and crisis", "Scientific revolutions"],
+    sections: [],
+    reflectionQuestions: ["Does science progress through revolutions?", "Are paradigms incommensurable?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/structureofscie000kuhn"
+  },
+
+  "wittgenstein-investigations": {
+    slug: "wittgenstein-investigations",
+    title: "Language Games",
+    book: "Philosophical Investigations, Sections 1-100",
+    author: "Ludwig Wittgenstein",
+    era: "20th Century (1953)",
+    overview: "Meaning is use — Wittgenstein's revolution in the philosophy of language. Read the full text via the link below.",
+    keyConcepts: ["Language games", "Meaning as use", "Family resemblance", "Against private language"],
+    sections: [],
+    reflectionQuestions: ["Is meaning really just use?", "Can language be fully precise?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/philosophicalinv0000witt"
+  },
+
+  "wittgenstein-private": {
+    slug: "wittgenstein-private",
+    title: "The Private Language Argument",
+    book: "Philosophical Investigations, Sections 243-315",
+    author: "Ludwig Wittgenstein",
+    era: "20th Century (1953)",
+    overview: "Can there be a language only one person understands? Wittgenstein argues no. Read the full text via the link below.",
+    keyConcepts: ["The private language argument", "Rule-following", "The beetle in the box", "Language as public practice"],
+    sections: [],
+    reflectionQuestions: ["Could you have a language no one else could learn?", "Is all meaning public?"],
+    furtherReading: "Available on Archive.org.",
+    externalUrl: "https://archive.org/details/philosophicalinv0000witt"
   },
 };
