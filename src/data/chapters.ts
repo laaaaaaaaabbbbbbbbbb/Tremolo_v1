@@ -1061,7 +1061,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is compassion for the weak a genuine virtue, or a disguised form of resentment?",
       "Can we evaluate our moral values without knowing their origins?"
     ],
-    furtherReading: "Continue with the Second and Third Essays for Nietzsche's account of guilt, bad conscience, and ascetic ideals. Available on Project Gutenberg. For context, read Beyond Good and Evil, especially chapters 1, 5, and 9."
+    furtherReading: "Continue with the Second and Third Essays for Nietzsche's account of guilt, bad conscience, and ascetic ideals. Available on Project Gutenberg. For context, read Beyond Good and Evil, especially chapters 1, 5, and 9.",
+    externalUrl: "https://www.gutenberg.org/files/52319/52319-h/52319-h.htm"
   },
 
   "russell-problems-1": {
