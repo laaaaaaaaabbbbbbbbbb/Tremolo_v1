@@ -851,7 +851,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Hume right that we never actually observe causation — only regular succession?",
       "What are the practical implications of the problem of induction for science?"
     ],
-    furtherReading: "Continue with Section 10 (On Miracles) and Section 12 (Of the Academical Philosophy). Available on Project Gutenberg. For Kant's response, see the Critique of Pure Reason, especially the Preface to the 2nd edition."
+    furtherReading: "Continue with Section 10 (On Miracles) and Section 12 (Of the Academical Philosophy). Available on Project Gutenberg. For Kant's response, see the Critique of Pure Reason, especially the Preface to the 2nd edition.",
+    externalUrl: "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm"
   },
 
   "rousseau-contract-1": {
