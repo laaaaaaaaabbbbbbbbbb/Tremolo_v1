@@ -683,7 +683,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is Augustine right that we often pursue good things in disordered ways?",
       "Can a philosophical conversion be as profound as a religious one?"
     ],
-    furtherReading: "The Confessions is available in multiple translations. Henry Chadwick's Oxford edition and Sarah Ruden's modern translation are both excellent. Books X-XI on memory and time are philosophically the richest."
+    furtherReading: "The Confessions is available in multiple translations. Henry Chadwick's Oxford edition and Sarah Ruden's modern translation are both excellent. Books X-XI on memory and time are philosophically the richest.",
+    externalUrl: "https://www.gutenberg.org/files/3296/3296-h/3296-h.htm"
   },
 
   "machiavelli-prince-15": {
