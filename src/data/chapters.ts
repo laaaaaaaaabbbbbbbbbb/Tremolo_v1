@@ -641,7 +641,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Do you agree that family relationships are the foundation of all virtue?",
       "Is it possible to govern through moral example, or is this naive?"
     ],
-    furtherReading: "The Analects is available in many translations. Edward Slingerland's translation with commentary is excellent for beginners. D.C. Lau's Penguin edition is the classic."
+    furtherReading: "The Analects is available in many translations. Edward Slingerland's translation with commentary is excellent for beginners. D.C. Lau's Penguin edition is the classic.",
+    externalUrl: "https://www.gutenberg.org/files/3330/3330-h/3330-h.htm"
   },
 
   "augustine-1": {
