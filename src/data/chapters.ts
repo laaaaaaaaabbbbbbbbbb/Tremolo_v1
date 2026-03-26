@@ -473,7 +473,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is it realistic to stop desiring external goods, or is this too extreme?",
       "How would your daily life change if you truly accepted what you cannot control?"
     ],
-    furtherReading: "The complete Enchiridion is very short (about 20 pages) and widely available. For the extended version, see Epictetus's Discourses (compiled by Arrian). Available on MIT Classics."
+    furtherReading: "The complete Enchiridion is very short (about 20 pages) and widely available. For the extended version, see Epictetus's Discourses (compiled by Arrian). Available on MIT Classics.",
+    externalUrl: "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm"
   },
 
   "aurelius-1": {
