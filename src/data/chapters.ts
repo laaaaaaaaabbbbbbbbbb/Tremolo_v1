@@ -809,7 +809,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is giving up freedom for security a good trade? How much freedom would you surrender?",
       "Can you see the 'state of nature' dynamics in any real-world situations?"
     ],
-    furtherReading: "Continue with Leviathan Chapters 17-21 for Hobbes's theory of sovereignty. Available on Project Gutenberg. For contrast, read Locke's Second Treatise and Rousseau's Social Contract."
+    furtherReading: "Continue with Leviathan Chapters 17-21 for Hobbes's theory of sovereignty. Available on Project Gutenberg. For contrast, read Locke's Second Treatise and Rousseau's Social Contract.",
+    externalUrl: "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm"
   },
 
   "hume-enquiry-4": {
