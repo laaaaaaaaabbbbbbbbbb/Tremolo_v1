@@ -431,7 +431,8 @@ export const chapters: Record<string, ChapterContent> = {
       "Is 'absence of pain' really the highest pleasure, or is something more needed?",
       "How would your life change if you adopted Epicurus's classification of desires?"
     ],
-    furtherReading: "The Letter to Menoeceus is very short and worth reading in full. Available in various translations online. For more, see Epicurus's Principal Doctrines and the fragments collected by Diogenes Laertius."
+    furtherReading: "The Letter to Menoeceus is very short and worth reading in full. Available in various translations online. For more, see Epicurus's Principal Doctrines and the fragments collected by Diogenes Laertius.",
+    externalUrl: "https://en.wikisource.org/wiki/Letter_to_Menoeceus"
   },
 
   "epictetus-1": {
