@@ -1,3 +1,3 @@
-# AI Generated Philosophical Website
+# Tremolo
 
-But don't worry guys, it's not all AI.
+Educational philosophy website.
