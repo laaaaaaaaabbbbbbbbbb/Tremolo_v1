@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# AI Generated Philosophical Website
 
-TODO: Document your project here
+But don't worry guys, it's not all AI.
